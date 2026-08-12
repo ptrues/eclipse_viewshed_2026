@@ -167,7 +167,7 @@ section{ padding:0 var(--pad); }
 }
 .fig .tag{
   display:inline-block;
-  font-family:"Liberation Mono",monospace; font-size:7.4pt;
+  font-family:"Liberation Mono",monospace; font-size:7pt;
   letter-spacing:.16em; font-weight:700;
   color:var(--ink); background:var(--warm);
   padding:2.5pt 6pt; border-radius:2pt; margin-bottom:10pt;
@@ -313,7 +313,15 @@ footer b{ color:var(--tx2); font-weight:400; }
   .step .n{ font-size:8.5pt; }
   .step p{ font-size:10.2pt; }
   .chip{ font-size:9pt; padding:4pt 6.5pt; }
-  footer{ font-size:8pt; }
+  footer{ font-size:7.4pt; line-height:1.55; letter-spacing:.02em; }
+  footer .row{ display:block; }
+  footer .row > span{ display:block; white-space:nowrap; }
+  footer .row > span + span{ margin-top:2pt; }
+  footer .row > span:last-child{ text-align:left; }
+  footer .credit{ display:block; margin-top:9pt; }
+  footer .credit .ckey,
+  footer .credit .cval{ display:block; width:auto; }
+  footer .credit .ckey{ margin-bottom:2pt; }
 }
 
 </style>
@@ -379,7 +387,7 @@ footer b{ color:var(--tx2); font-weight:400; }
 <span class="sec-num">02</span>
 <span class="sec-title">Yes, the eclipse will be visible from all of the spots I tested.</span>
 </div>
-<p class="lede">Any spot on the right bank of the Scheldt is suitable for viewing the eclipse.</p>
+<p class="lede">Any of these locations is suitable for viewing the eclipse. But are some spots better than others?</p>
 <table class="sites">
 <tbody><tr>
 <th>Site TESTED</th>
@@ -393,7 +401,7 @@ footer b{ color:var(--tx2); font-weight:400; }
 <span class="sec-num">03</span>
 <span class="sec-title">Obstructions at each viewing spot</span>
 </div>
-<p class="lede">I compared the sun's path against reconstructed skylines at each spot. Even at the worst viewing location I tested, near Het Steen, the exciting part of the eclipse will still be visible.</p>
+<p class="lede">I compared the sun's path against reconstructed skylines at each spot. Even from the worst viewing spot I tested, near Het Steen, the exciting part of the eclipse will still be visible.</p>
 <img alt="Measured horizon at all five viewpoints, drawn against the descending track of the eclipsed sun; the sun stays above every skyline until the closing minutes" class="figimg" data-source="reports/figures/factsheet/fig2_skylines_all.png" src="../figures/factsheet/fig2_skylines_all.png"/></section><section style="padding-top:20pt">
 <div class="sec-head">
 <span class="sec-num">04</span>
