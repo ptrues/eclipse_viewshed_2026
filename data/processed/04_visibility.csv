@@ -1,0 +1,6 @@
+name,z_eye_taw,sun_alt_at_max,horizon_at_max,clearance_at_max,visible_at_max,first_visible_centre,last_visible_centre,minutes_visible_centre,first_visible_upper_limb,last_visible_upper_limb,minutes_visible_upper_limb,eclipse_first_cest,eclipse_last_cest,eclipse_minutes,eclipse_clipped_by_wedge,z_mode,median_horizon_deg,max_horizon_deg,check_position
+Nieuw Zuid,8.45,7.54,1.0,6.53,True,19:14,21:00,105.9,19:14,21:02,107.8,19:19,21:02,102.2,False,ground,0.82,1.47,False
+Scheldekaaien Zuid,8.4,7.54,0.38,7.16,True,19:14,21:00,106.7,19:14,21:03,109.5,19:19,21:03,103.9,False,ground,0.52,1.82,False
+"Wandelterras, Het Steen",13.59,7.54,1.71,5.83,True,19:14,20:51,96.8,19:14,20:51,97.3,19:19,20:51,91.7,False,ground,1.69,2.86,False
+Droogdokkenpark,5.9,7.54,0.13,7.41,True,19:14,20:59,105.1,19:14,21:02,107.7,19:19,21:02,102.1,False,ground,0.36,1.85,False
+MAS panoramic platform,70.28,7.54,-0.08,7.62,True,19:14,21:11,117.2,19:14,21:11,117.3,19:19,21:06,106.4,False,surface,-0.27,0.55,False

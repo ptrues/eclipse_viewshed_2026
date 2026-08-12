@@ -1,0 +1,57 @@
+# ---- data ----------------------------------------------------------------
+# Raw lidar is large and re-downloadable; keep it out of version control.
+# Provenance lives in references/ and notebook 02, which is what actually
+# matters for reproducibility.
+data/raw/*
+data/interim/*
+data/external/*
+data/processed/*
+!data/external/observers.csv
+!data/raw/dhmv_tiles/
+data/raw/dhmv_tiles/*
+!data/raw/dhmv_tiles/manifest.json
+
+# Compact processed results are retained.
+!data/processed/*.csv
+!data/processed/*.geojson
+!data/processed/*.json
+!data/processed/horizon_profiles/
+!data/processed/horizon_profiles/*.csv
+
+# ---- notebooks -----------------------------------------------------------
+.ipynb_checkpoints/
+.virtual_documents/
+
+# ---- python --------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.pytest-tmp/
+.coverage
+htmlcov/
+.venv/
+venv/
+*.egg-info/
+.env
+.env.*
+!.env.example
+
+# ---- os / editor ---------------------------------------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ---- gis scratch ---------------------------------------------------------
+*.aux.xml
+*.tif.ovr
+*.lock
+*.gpkg-wal
+*.gpkg-shm
+
+# ---- generated exports and scratch files ---------------------------------
+reports/site_export/
+*.log
+*.tmp
+*.bak
+*~

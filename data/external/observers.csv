@@ -1,0 +1,6 @@
+name,lat,lon,eye_height_m,z_mode,abs_eye_z_taw,notes
+Nieuw Zuid,51.20501433632554,4.3761034790145645,1.6,ground,,Riverbank observation point
+Scheldekaaien Zuid,51.21193309444983,4.388558346421922,1.6,ground,,Riverbank observation point
+"Wandelterras, Het Steen",51.22104280425928,4.395803746709888,6.6,ground,,5 m platform plus 1.6 m eye height; referenced to DTM because the platform may postdate the lidar
+Droogdokkenpark,51.2365,4.4010,1.6,ground,,Riverbank observation point
+MAS panoramic platform,51.22896510990676,4.4047312094219775,1.6,surface,,Rooftop coordinate verified against Google Maps and the DSM

@@ -1,0 +1,12 @@
+{
+  "first_contact_cest": 19.3224690755207,
+  "maximum_cest": 20.23256353583738,
+  "last_contact_cest": 21.09808756510393,
+  "first_contact_hhmm": "19:19",
+  "maximum_hhmm": "20:14",
+  "last_contact_hhmm": "21:06",
+  "max_obscuration": 0.8863847444566727,
+  "sun_alt_at_max_deg": 7.53,
+  "sun_az_at_max_deg": 284.43,
+  "duration_min": 106.5
+}

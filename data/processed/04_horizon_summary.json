@@ -1,0 +1,18 @@
+{
+  "ray_m": 10000,
+  "az_range": [
+    273.0,
+    296.0
+  ],
+  "curvature_k": 0.13,
+  "excluded_classes": [
+    "water"
+  ],
+  "max_eclipse": {
+    "cest": "20:14",
+    "altitude_deg": 7.54,
+    "azimuth_deg": 284.42
+  },
+  "observers": 5,
+  "best_by_clearance": "MAS panoramic platform"
+}

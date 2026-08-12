@@ -1,0 +1,15 @@
+{
+  "primary_observer": "Nieuw Zuid",
+  "eye_z_taw": 7.88,
+  "grb_radius_m": 3000,
+  "grb_footprints": 92427,
+  "wedge_obstruction_px": 385138,
+  "class_pixels": {
+    "nodata": 25000000,
+    "ground": 94099038,
+    "water": 22042751,
+    "vegetation": 8838447,
+    "building": 12562837,
+    "tall, unattributed": 13456927
+  }
+}

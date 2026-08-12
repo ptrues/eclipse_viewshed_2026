@@ -1,0 +1,20 @@
+name: eclipse-viewshed
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - gdal
+  - rasterio
+  - pyproj
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyterlab
+  - ipykernel
+  - requests
+  - beautifulsoup4
+  - pytest
+  - openssl<3.5.7
+  - pip
+  - pip:
+      - pvlib

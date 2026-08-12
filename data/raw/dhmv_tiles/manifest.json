@@ -1,0 +1,4216 @@
+{
+  "DHMVII_DSM_1m_x141000_y211000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(141000,142000)&subset=y(211000,212000)&format=image/tiff",
+    "bounds_l72": [
+      141000,
+      211000,
+      142000,
+      212000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "6d6dd8a19ebef514dc9680eee78abcb13e221042e25b7909e24dbabdd8ac22de",
+    "retrieved_utc": "2026-08-11T12:16:24Z"
+  },
+  "DHMVII_DSM_1m_x142000_y211000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(142000,143000)&subset=y(211000,212000)&format=image/tiff",
+    "bounds_l72": [
+      142000,
+      211000,
+      143000,
+      212000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "a3680093aea334b0bb30ea6de3dddbe5f13f5b020c6798c052eb826956e8d352",
+    "retrieved_utc": "2026-08-11T12:16:25Z"
+  },
+  "DHMVII_DSM_1m_x143000_y211000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(143000,144000)&subset=y(211000,212000)&format=image/tiff",
+    "bounds_l72": [
+      143000,
+      211000,
+      144000,
+      212000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "6a0e559d909372311c3c4b1a3572f9299b62548663698d905eef215a7d28e9d0",
+    "retrieved_utc": "2026-08-11T12:16:25Z"
+  },
+  "DHMVII_DSM_1m_x144000_y211000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(144000,145000)&subset=y(211000,212000)&format=image/tiff",
+    "bounds_l72": [
+      144000,
+      211000,
+      145000,
+      212000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "ee14b8569509d28c4f5f062b650aa36a337aed0a32931899cf5b0cd4cd8dcf83",
+    "retrieved_utc": "2026-08-11T12:16:26Z"
+  },
+  "DHMVII_DSM_1m_x145000_y211000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(145000,146000)&subset=y(211000,212000)&format=image/tiff",
+    "bounds_l72": [
+      145000,
+      211000,
+      146000,
+      212000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "742348488c8640b164106be6baf3bc7e0e3d50f89e5233bbee83c5b3f7164fb5",
+    "retrieved_utc": "2026-08-11T12:16:27Z"
+  },
+  "DHMVII_DSM_1m_x146000_y211000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(146000,147000)&subset=y(211000,212000)&format=image/tiff",
+    "bounds_l72": [
+      146000,
+      211000,
+      147000,
+      212000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "661bab1accb06d160a1dced71d6d9c052878b6752dbbde2e0f40dda96dd6c09f",
+    "retrieved_utc": "2026-08-11T12:16:28Z"
+  },
+  "DHMVII_DSM_1m_x147000_y211000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(147000,148000)&subset=y(211000,212000)&format=image/tiff",
+    "bounds_l72": [
+      147000,
+      211000,
+      148000,
+      212000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "0f506b1a9a0fbac834cfdbfae63461afd7930d15405d0526d90a8865c69ae074",
+    "retrieved_utc": "2026-08-11T12:16:29Z"
+  },
+  "DHMVII_DSM_1m_x148000_y211000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(148000,149000)&subset=y(211000,212000)&format=image/tiff",
+    "bounds_l72": [
+      148000,
+      211000,
+      149000,
+      212000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "9e6467268846b0b6e46988ea479d59267daa671bc948a24829f95d6b3d0ed67c",
+    "retrieved_utc": "2026-08-11T12:16:30Z"
+  },
+  "DHMVII_DSM_1m_x149000_y211000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(149000,150000)&subset=y(211000,212000)&format=image/tiff",
+    "bounds_l72": [
+      149000,
+      211000,
+      150000,
+      212000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "417f66f0a93b6196009a7c969fc99bf670e480a85724585261f413de66db1d50",
+    "retrieved_utc": "2026-08-11T12:16:30Z"
+  },
+  "DHMVII_DSM_1m_x150000_y211000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(150000,151000)&subset=y(211000,212000)&format=image/tiff",
+    "bounds_l72": [
+      150000,
+      211000,
+      151000,
+      212000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "e653498fb733cbac29413df6fa6a04b2d83d70b50d7693a83b92965462e0abb9",
+    "retrieved_utc": "2026-08-11T12:16:31Z"
+  },
+  "DHMVII_DSM_1m_x151000_y211000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(151000,152000)&subset=y(211000,212000)&format=image/tiff",
+    "bounds_l72": [
+      151000,
+      211000,
+      152000,
+      212000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "9105ae64da8b01cf9f48f81e84324808682b9634b509895d33762705f42f6ae5",
+    "retrieved_utc": "2026-08-11T12:16:32Z"
+  },
+  "DHMVII_DSM_1m_x152000_y211000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(152000,153000)&subset=y(211000,212000)&format=image/tiff",
+    "bounds_l72": [
+      152000,
+      211000,
+      153000,
+      212000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "79f826e52a19af8ef7229e945d4299c51f1d5c86776d5b3ad9f889ac7c677589",
+    "retrieved_utc": "2026-08-11T12:16:33Z"
+  },
+  "DHMVII_DSM_1m_x141000_y212000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(141000,142000)&subset=y(212000,213000)&format=image/tiff",
+    "bounds_l72": [
+      141000,
+      212000,
+      142000,
+      213000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "69c4a8150e166d45d28bb8603440b15129f96e03f061858046777f07fec5b264",
+    "retrieved_utc": "2026-08-11T12:16:34Z"
+  },
+  "DHMVII_DSM_1m_x142000_y212000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(142000,143000)&subset=y(212000,213000)&format=image/tiff",
+    "bounds_l72": [
+      142000,
+      212000,
+      143000,
+      213000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "f25cdc6899b614d2162401a42ffa48ed7c154bf697e9ffc7ed4fc3d71c5ddf21",
+    "retrieved_utc": "2026-08-11T12:16:35Z"
+  },
+  "DHMVII_DSM_1m_x143000_y212000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(143000,144000)&subset=y(212000,213000)&format=image/tiff",
+    "bounds_l72": [
+      143000,
+      212000,
+      144000,
+      213000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "db55c2e8b29e4c00122d5dfe9197895b0a1da0691792ef6fa8f6b227a7a6d4db",
+    "retrieved_utc": "2026-08-11T12:16:35Z"
+  },
+  "DHMVII_DSM_1m_x144000_y212000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(144000,145000)&subset=y(212000,213000)&format=image/tiff",
+    "bounds_l72": [
+      144000,
+      212000,
+      145000,
+      213000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "b912ca7be077d14e91101c6f63317e8308c272a739dbd1973aae25b642bb39ae",
+    "retrieved_utc": "2026-08-11T12:16:36Z"
+  },
+  "DHMVII_DSM_1m_x145000_y212000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(145000,146000)&subset=y(212000,213000)&format=image/tiff",
+    "bounds_l72": [
+      145000,
+      212000,
+      146000,
+      213000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "88ac216316cae0e6f4354fc61120f98ba72f096f556b31d0d82e40af5101e6b3",
+    "retrieved_utc": "2026-08-11T12:16:37Z"
+  },
+  "DHMVII_DSM_1m_x146000_y212000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(146000,147000)&subset=y(212000,213000)&format=image/tiff",
+    "bounds_l72": [
+      146000,
+      212000,
+      147000,
+      213000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "9ec252f9ffc6f5c6baab09abdf02898a877f4cbf4f7a75ec04645e51b57945b5",
+    "retrieved_utc": "2026-08-11T12:16:38Z"
+  },
+  "DHMVII_DSM_1m_x147000_y212000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(147000,148000)&subset=y(212000,213000)&format=image/tiff",
+    "bounds_l72": [
+      147000,
+      212000,
+      148000,
+      213000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "1b780ad586663cae123bc13e9e76ab9bba16968bfafea61e57ac90a8fb52a4d6",
+    "retrieved_utc": "2026-08-11T12:16:39Z"
+  },
+  "DHMVII_DSM_1m_x148000_y212000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(148000,149000)&subset=y(212000,213000)&format=image/tiff",
+    "bounds_l72": [
+      148000,
+      212000,
+      149000,
+      213000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "83359780f7ddf1d9c6ed7a09fdc402628a16cfe7830190a4d870ae8d7c90db0b",
+    "retrieved_utc": "2026-08-11T12:16:40Z"
+  },
+  "DHMVII_DSM_1m_x149000_y212000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(149000,150000)&subset=y(212000,213000)&format=image/tiff",
+    "bounds_l72": [
+      149000,
+      212000,
+      150000,
+      213000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "3a06a29761bb0c284a738f5be48d3ce36ea43c48686e49dbc41db43422553588",
+    "retrieved_utc": "2026-08-11T12:16:41Z"
+  },
+  "DHMVII_DSM_1m_x150000_y212000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(150000,151000)&subset=y(212000,213000)&format=image/tiff",
+    "bounds_l72": [
+      150000,
+      212000,
+      151000,
+      213000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "52b6fe57afa7f7a274d27f479c7d67baa59e7ec94e1abe7332ac8b459537ffb5",
+    "retrieved_utc": "2026-08-11T12:16:42Z"
+  },
+  "DHMVII_DSM_1m_x151000_y212000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(151000,152000)&subset=y(212000,213000)&format=image/tiff",
+    "bounds_l72": [
+      151000,
+      212000,
+      152000,
+      213000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "e177b1473de4ff9b0d5ad199c04909786aa1fc65fb7fdb15745620832587bb90",
+    "retrieved_utc": "2026-08-11T12:16:43Z"
+  },
+  "DHMVII_DSM_1m_x152000_y212000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(152000,153000)&subset=y(212000,213000)&format=image/tiff",
+    "bounds_l72": [
+      152000,
+      212000,
+      153000,
+      213000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "16882b1dd033da1a00ea1d4422ec4cb6c8a2297e4ee14a15663024e1db038735",
+    "retrieved_utc": "2026-08-11T12:16:44Z"
+  },
+  "DHMVII_DSM_1m_x141000_y213000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(141000,142000)&subset=y(213000,214000)&format=image/tiff",
+    "bounds_l72": [
+      141000,
+      213000,
+      142000,
+      214000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "fdde44f962cc435c9283faae1146bbbefc7542a3edecf2f8f6878c68f6f751fe",
+    "retrieved_utc": "2026-08-11T12:16:45Z"
+  },
+  "DHMVII_DSM_1m_x142000_y213000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(142000,143000)&subset=y(213000,214000)&format=image/tiff",
+    "bounds_l72": [
+      142000,
+      213000,
+      143000,
+      214000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "3328f5f721b303f0900fe85d79c6cadade485bedb6e88530b27c9dfff4cc7ba4",
+    "retrieved_utc": "2026-08-11T12:16:47Z"
+  },
+  "DHMVII_DSM_1m_x143000_y213000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(143000,144000)&subset=y(213000,214000)&format=image/tiff",
+    "bounds_l72": [
+      143000,
+      213000,
+      144000,
+      214000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "783f5aad3e0835ed6edec9d1f4a20d8d8a8c3520a0d2ec5728ea7d1684324b9c",
+    "retrieved_utc": "2026-08-11T12:16:48Z"
+  },
+  "DHMVII_DSM_1m_x144000_y213000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(144000,145000)&subset=y(213000,214000)&format=image/tiff",
+    "bounds_l72": [
+      144000,
+      213000,
+      145000,
+      214000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "726ec8e18993c60edb60c5e4d7fc8c5d1653902796f60b66fbc5740c5d8aa3df",
+    "retrieved_utc": "2026-08-11T12:16:48Z"
+  },
+  "DHMVII_DSM_1m_x145000_y213000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(145000,146000)&subset=y(213000,214000)&format=image/tiff",
+    "bounds_l72": [
+      145000,
+      213000,
+      146000,
+      214000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "f9ad295312f71d4df3d34b094bf7e7d240cb8a98bbbfe826c35c86e80c0cfabe",
+    "retrieved_utc": "2026-08-11T12:16:49Z"
+  },
+  "DHMVII_DSM_1m_x146000_y213000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(146000,147000)&subset=y(213000,214000)&format=image/tiff",
+    "bounds_l72": [
+      146000,
+      213000,
+      147000,
+      214000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "fdca3858e438bf6a03162b66947b75a8b8663452aa85836275c728fee89feec6",
+    "retrieved_utc": "2026-08-11T12:16:50Z"
+  },
+  "DHMVII_DSM_1m_x147000_y213000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(147000,148000)&subset=y(213000,214000)&format=image/tiff",
+    "bounds_l72": [
+      147000,
+      213000,
+      148000,
+      214000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "822b7ba6c4754f4c095b44ca257273490eda96c53784dd383a4194fb8da54333",
+    "retrieved_utc": "2026-08-11T12:16:51Z"
+  },
+  "DHMVII_DSM_1m_x148000_y213000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(148000,149000)&subset=y(213000,214000)&format=image/tiff",
+    "bounds_l72": [
+      148000,
+      213000,
+      149000,
+      214000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "38597d9810917be850e84cd6efcecc29fbc6a593bd739da71a827355d8ae5a78",
+    "retrieved_utc": "2026-08-11T12:16:52Z"
+  },
+  "DHMVII_DSM_1m_x149000_y213000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(149000,150000)&subset=y(213000,214000)&format=image/tiff",
+    "bounds_l72": [
+      149000,
+      213000,
+      150000,
+      214000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "dd6caf9a4f23dc118f2dd67f7088e1a7163440b07e75b6d30fea43a4198736f0",
+    "retrieved_utc": "2026-08-11T12:16:53Z"
+  },
+  "DHMVII_DSM_1m_x150000_y213000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(150000,151000)&subset=y(213000,214000)&format=image/tiff",
+    "bounds_l72": [
+      150000,
+      213000,
+      151000,
+      214000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "1bbbf9130c07e19e6cc98bac5e84a05a0bac121cc12412c5194560b4e7f275dd",
+    "retrieved_utc": "2026-08-11T12:16:54Z"
+  },
+  "DHMVII_DSM_1m_x151000_y213000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(151000,152000)&subset=y(213000,214000)&format=image/tiff",
+    "bounds_l72": [
+      151000,
+      213000,
+      152000,
+      214000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "0c7dac82e0a5bc5b954be51b16fff41b5a51b03d261464af851f7fd86a963027",
+    "retrieved_utc": "2026-08-11T12:16:55Z"
+  },
+  "DHMVII_DSM_1m_x152000_y213000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(152000,153000)&subset=y(213000,214000)&format=image/tiff",
+    "bounds_l72": [
+      152000,
+      213000,
+      153000,
+      214000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "f45fd8aba461f6a976472617130440e5a0370655b3ef20956f27713cb9ed764c",
+    "retrieved_utc": "2026-08-11T12:16:56Z"
+  },
+  "DHMVII_DSM_1m_x142000_y214000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(142000,143000)&subset=y(214000,215000)&format=image/tiff",
+    "bounds_l72": [
+      142000,
+      214000,
+      143000,
+      215000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "735fffe67f8ef41e8e9d35a0d30d347a6627144bb1aec9fe5c2f145d4726d494",
+    "retrieved_utc": "2026-08-11T12:16:57Z"
+  },
+  "DHMVII_DSM_1m_x143000_y214000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(143000,144000)&subset=y(214000,215000)&format=image/tiff",
+    "bounds_l72": [
+      143000,
+      214000,
+      144000,
+      215000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "e545818cbf31d0c925304d72696c191849eabf5a389a078cb8b8218f601a2973",
+    "retrieved_utc": "2026-08-11T12:16:58Z"
+  },
+  "DHMVII_DSM_1m_x144000_y214000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(144000,145000)&subset=y(214000,215000)&format=image/tiff",
+    "bounds_l72": [
+      144000,
+      214000,
+      145000,
+      215000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "63d5b5fd3f34ccd8ae7c48b7056238dd23461031e5e6c575f0495ce0ac6bf526",
+    "retrieved_utc": "2026-08-11T12:16:59Z"
+  },
+  "DHMVII_DSM_1m_x145000_y214000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(145000,146000)&subset=y(214000,215000)&format=image/tiff",
+    "bounds_l72": [
+      145000,
+      214000,
+      146000,
+      215000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "e99adddc627b4b114ec2774fe405ad6206c8666f2481364d39d14ba3003c7dd5",
+    "retrieved_utc": "2026-08-11T12:16:59Z"
+  },
+  "DHMVII_DSM_1m_x146000_y214000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(146000,147000)&subset=y(214000,215000)&format=image/tiff",
+    "bounds_l72": [
+      146000,
+      214000,
+      147000,
+      215000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "1726e05db20a655c04e49955474ba0c93d37bdec26cae53630be78fa7d09d46b",
+    "retrieved_utc": "2026-08-11T12:17:00Z"
+  },
+  "DHMVII_DSM_1m_x147000_y214000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(147000,148000)&subset=y(214000,215000)&format=image/tiff",
+    "bounds_l72": [
+      147000,
+      214000,
+      148000,
+      215000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "b5a49388beb90b11eccf862c775d22a2675c93d01929084a845e407a08c65834",
+    "retrieved_utc": "2026-08-11T12:17:01Z"
+  },
+  "DHMVII_DSM_1m_x148000_y214000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(148000,149000)&subset=y(214000,215000)&format=image/tiff",
+    "bounds_l72": [
+      148000,
+      214000,
+      149000,
+      215000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "48dbac9f0f44d90c8ddda35d422c5ec207e3823ee7aae163b04f6e7f97fcad6e",
+    "retrieved_utc": "2026-08-11T12:17:02Z"
+  },
+  "DHMVII_DSM_1m_x149000_y214000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(149000,150000)&subset=y(214000,215000)&format=image/tiff",
+    "bounds_l72": [
+      149000,
+      214000,
+      150000,
+      215000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "5bd1e110f53fe717b13c7c95f61db25d75775f5be4f6091f14435514edbcdd88",
+    "retrieved_utc": "2026-08-11T12:17:03Z"
+  },
+  "DHMVII_DSM_1m_x150000_y214000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(150000,151000)&subset=y(214000,215000)&format=image/tiff",
+    "bounds_l72": [
+      150000,
+      214000,
+      151000,
+      215000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "242f3c76dee338ab274791e80f20f3d8d6a47975334f4a6e03729f50033efa6b",
+    "retrieved_utc": "2026-08-11T12:17:03Z"
+  },
+  "DHMVII_DSM_1m_x151000_y214000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(151000,152000)&subset=y(214000,215000)&format=image/tiff",
+    "bounds_l72": [
+      151000,
+      214000,
+      152000,
+      215000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "0949d58ba82aa8e116f28cf5751bada07734778448be9538635b993859020233",
+    "retrieved_utc": "2026-08-11T12:17:04Z"
+  },
+  "DHMVII_DSM_1m_x152000_y214000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(152000,153000)&subset=y(214000,215000)&format=image/tiff",
+    "bounds_l72": [
+      152000,
+      214000,
+      153000,
+      215000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "d7ea417b079330703de05f89a559a3e5a3ba572ad8da540ad13d86ab75c5d509",
+    "retrieved_utc": "2026-08-11T12:17:05Z"
+  },
+  "DHMVII_DSM_1m_x141000_y215000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(141000,142000)&subset=y(215000,216000)&format=image/tiff",
+    "bounds_l72": [
+      141000,
+      215000,
+      142000,
+      216000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "3c7015caf4c080e07fc150b0fe41de2173e8632b99143348b9a742ac9f68e65c",
+    "retrieved_utc": "2026-08-11T12:17:06Z"
+  },
+  "DHMVII_DSM_1m_x142000_y215000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(142000,143000)&subset=y(215000,216000)&format=image/tiff",
+    "bounds_l72": [
+      142000,
+      215000,
+      143000,
+      216000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "315870c3bbab9f64e370d07b184cabe77d9660e56ec3f018c822e058bf657e3b",
+    "retrieved_utc": "2026-08-11T12:17:07Z"
+  },
+  "DHMVII_DSM_1m_x143000_y215000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(143000,144000)&subset=y(215000,216000)&format=image/tiff",
+    "bounds_l72": [
+      143000,
+      215000,
+      144000,
+      216000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "be2f8d322c622ed8c8cdadf622ee4703d74f3bfb9059836ec993fd9d1bce7549",
+    "retrieved_utc": "2026-08-11T12:17:07Z"
+  },
+  "DHMVII_DSM_1m_x144000_y215000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(144000,145000)&subset=y(215000,216000)&format=image/tiff",
+    "bounds_l72": [
+      144000,
+      215000,
+      145000,
+      216000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "07c0249f20b94d27b3bdd354f4cf3fc4a4ec23c2b6556502769a5999454bca59",
+    "retrieved_utc": "2026-08-11T12:17:08Z"
+  },
+  "DHMVII_DSM_1m_x145000_y215000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(145000,146000)&subset=y(215000,216000)&format=image/tiff",
+    "bounds_l72": [
+      145000,
+      215000,
+      146000,
+      216000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "0e817522e67a6d59bf27459694bd50ed16392e303252f3adfc654ecd9b32be83",
+    "retrieved_utc": "2026-08-11T12:17:09Z"
+  },
+  "DHMVII_DSM_1m_x146000_y215000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(146000,147000)&subset=y(215000,216000)&format=image/tiff",
+    "bounds_l72": [
+      146000,
+      215000,
+      147000,
+      216000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "1a69ec47e345d71de247024d7a72a1a618c76acecb067aef1d31b6c3ea597d4c",
+    "retrieved_utc": "2026-08-11T12:17:10Z"
+  },
+  "DHMVII_DSM_1m_x147000_y215000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(147000,148000)&subset=y(215000,216000)&format=image/tiff",
+    "bounds_l72": [
+      147000,
+      215000,
+      148000,
+      216000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "a321044a1d31885fcb9374f22141c514b75e0065129d8cdd90777e3dafeff9f9",
+    "retrieved_utc": "2026-08-11T12:17:11Z"
+  },
+  "DHMVII_DSM_1m_x148000_y215000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(148000,149000)&subset=y(215000,216000)&format=image/tiff",
+    "bounds_l72": [
+      148000,
+      215000,
+      149000,
+      216000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "42c6a50ad51c49cc0fdb46a7952e4a411e5f2516fb0fa8a880fe934da967b4c0",
+    "retrieved_utc": "2026-08-11T12:17:11Z"
+  },
+  "DHMVII_DSM_1m_x149000_y215000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(149000,150000)&subset=y(215000,216000)&format=image/tiff",
+    "bounds_l72": [
+      149000,
+      215000,
+      150000,
+      216000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "3aa812fd3e0d255c0d034627582d2b92e54294182d83c6d32ed0668606930b16",
+    "retrieved_utc": "2026-08-11T12:17:12Z"
+  },
+  "DHMVII_DSM_1m_x150000_y215000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(150000,151000)&subset=y(215000,216000)&format=image/tiff",
+    "bounds_l72": [
+      150000,
+      215000,
+      151000,
+      216000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "e676177df8d853fd6c83136e34d827ab22c1c4229a2159ee332cd1bd57e1645e",
+    "retrieved_utc": "2026-08-11T12:17:13Z"
+  },
+  "DHMVII_DSM_1m_x151000_y215000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(151000,152000)&subset=y(215000,216000)&format=image/tiff",
+    "bounds_l72": [
+      151000,
+      215000,
+      152000,
+      216000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "f92ba08af7b9d9ebfa5621c2d4362434006d98c18decd7e548f8f22338cb51f9",
+    "retrieved_utc": "2026-08-11T12:17:14Z"
+  },
+  "DHMVII_DSM_1m_x152000_y215000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(152000,153000)&subset=y(215000,216000)&format=image/tiff",
+    "bounds_l72": [
+      152000,
+      215000,
+      153000,
+      216000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "4b0c754daf1b5b10399db2767d427d13c019f68b839e30ea3796abb5efb9f3fd",
+    "retrieved_utc": "2026-08-11T12:17:15Z"
+  },
+  "DHMVII_DSM_1m_x141000_y216000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(141000,142000)&subset=y(216000,217000)&format=image/tiff",
+    "bounds_l72": [
+      141000,
+      216000,
+      142000,
+      217000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "8cbc7479b4fab2480330e82d2727f9c70bee3465e41486b727f350e1bec42d35",
+    "retrieved_utc": "2026-08-11T12:17:16Z"
+  },
+  "DHMVII_DSM_1m_x142000_y216000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(142000,143000)&subset=y(216000,217000)&format=image/tiff",
+    "bounds_l72": [
+      142000,
+      216000,
+      143000,
+      217000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "6283680fc201c0bfe44bbe1fd7dda280677e0739ff8aa4e1dd5611ed13176395",
+    "retrieved_utc": "2026-08-11T12:17:17Z"
+  },
+  "DHMVII_DSM_1m_x143000_y216000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(143000,144000)&subset=y(216000,217000)&format=image/tiff",
+    "bounds_l72": [
+      143000,
+      216000,
+      144000,
+      217000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "cce98e367808c319bc005c762176efe09baa205153cb814b1cfab5efae8e6d51",
+    "retrieved_utc": "2026-08-11T12:17:18Z"
+  },
+  "DHMVII_DSM_1m_x144000_y216000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(144000,145000)&subset=y(216000,217000)&format=image/tiff",
+    "bounds_l72": [
+      144000,
+      216000,
+      145000,
+      217000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "8cdd0948b083bd1e54fd101b0c7feb2d1262e6581e2cc001da10f2a83ffd7248",
+    "retrieved_utc": "2026-08-11T12:17:19Z"
+  },
+  "DHMVII_DSM_1m_x145000_y216000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(145000,146000)&subset=y(216000,217000)&format=image/tiff",
+    "bounds_l72": [
+      145000,
+      216000,
+      146000,
+      217000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "8e5fb23f82a245455e1ce55b3697ef5153336a9e30e3a37bfe54bccb9af019ef",
+    "retrieved_utc": "2026-08-11T12:17:20Z"
+  },
+  "DHMVII_DSM_1m_x146000_y216000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(146000,147000)&subset=y(216000,217000)&format=image/tiff",
+    "bounds_l72": [
+      146000,
+      216000,
+      147000,
+      217000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "dcb11bee9cb91c95a8a757c1a524687ac6d5001ad2bc9a039eb3d05e9cb22a99",
+    "retrieved_utc": "2026-08-11T12:17:21Z"
+  },
+  "DHMVII_DSM_1m_x147000_y216000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(147000,148000)&subset=y(216000,217000)&format=image/tiff",
+    "bounds_l72": [
+      147000,
+      216000,
+      148000,
+      217000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "62406d3ee695393ab506b0b18857256d923052cd77612cedec56856a475c7914",
+    "retrieved_utc": "2026-08-11T12:17:22Z"
+  },
+  "DHMVII_DSM_1m_x148000_y216000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(148000,149000)&subset=y(216000,217000)&format=image/tiff",
+    "bounds_l72": [
+      148000,
+      216000,
+      149000,
+      217000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "4b3c582a222d966a3d46d945de4ad1e90d20fff38abf8b53aa979946150b929f",
+    "retrieved_utc": "2026-08-11T12:17:22Z"
+  },
+  "DHMVII_DSM_1m_x149000_y216000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(149000,150000)&subset=y(216000,217000)&format=image/tiff",
+    "bounds_l72": [
+      149000,
+      216000,
+      150000,
+      217000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "a87745dbdddd07e1ff0d29a69e0ffd7d151bce91068b3041696b64a6a0ee84b4",
+    "retrieved_utc": "2026-08-11T12:17:23Z"
+  },
+  "DHMVII_DSM_1m_x150000_y216000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(150000,151000)&subset=y(216000,217000)&format=image/tiff",
+    "bounds_l72": [
+      150000,
+      216000,
+      151000,
+      217000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "a41c0cf721dbd3e5223ba1df33d87e982e95d05bd6aba17e4d6289746c16ab8f",
+    "retrieved_utc": "2026-08-11T12:17:24Z"
+  },
+  "DHMVII_DSM_1m_x151000_y216000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(151000,152000)&subset=y(216000,217000)&format=image/tiff",
+    "bounds_l72": [
+      151000,
+      216000,
+      152000,
+      217000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "4a41598273e3f57ee24063d15f08b66253987287ec2a38ff2818942815e7070f",
+    "retrieved_utc": "2026-08-11T12:17:25Z"
+  },
+  "DHMVII_DSM_1m_x152000_y216000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(152000,153000)&subset=y(216000,217000)&format=image/tiff",
+    "bounds_l72": [
+      152000,
+      216000,
+      153000,
+      217000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "8aaf3077a7621628b416e1997be588386cc9d4be9fa2e9f0948ff055e02a069e",
+    "retrieved_utc": "2026-08-11T12:17:25Z"
+  },
+  "DHMVII_DTM_1m_x141000_y211000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(141000,142000)&subset=y(211000,212000)&format=image/tiff",
+    "bounds_l72": [
+      141000,
+      211000,
+      142000,
+      212000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "07da55b4c34227ab80defc47ad1f67488f94a43a3de5624b2296255fee131938",
+    "retrieved_utc": "2026-08-11T12:17:26Z"
+  },
+  "DHMVII_DTM_1m_x142000_y211000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(142000,143000)&subset=y(211000,212000)&format=image/tiff",
+    "bounds_l72": [
+      142000,
+      211000,
+      143000,
+      212000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "01a20faa7a7a4efc9a110749861d2d3785871a2d1cb80cb7580865567845efab",
+    "retrieved_utc": "2026-08-11T12:17:27Z"
+  },
+  "DHMVII_DTM_1m_x143000_y211000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(143000,144000)&subset=y(211000,212000)&format=image/tiff",
+    "bounds_l72": [
+      143000,
+      211000,
+      144000,
+      212000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "656d7f5cf4f664f50e491da0ddfc64622b7b1b6cb27cf089c55223fbf18999a1",
+    "retrieved_utc": "2026-08-11T12:17:28Z"
+  },
+  "DHMVII_DTM_1m_x144000_y211000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(144000,145000)&subset=y(211000,212000)&format=image/tiff",
+    "bounds_l72": [
+      144000,
+      211000,
+      145000,
+      212000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "453862b183d1302e8f98124b6824fc47fcd0e083cf21f39588333b7ab678a31f",
+    "retrieved_utc": "2026-08-11T12:17:29Z"
+  },
+  "DHMVII_DTM_1m_x145000_y211000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(145000,146000)&subset=y(211000,212000)&format=image/tiff",
+    "bounds_l72": [
+      145000,
+      211000,
+      146000,
+      212000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "037f7cc8e761a092b0d4c720b01d01aed847a943fee28235a3563ea423674447",
+    "retrieved_utc": "2026-08-11T12:17:30Z"
+  },
+  "DHMVII_DTM_1m_x146000_y211000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(146000,147000)&subset=y(211000,212000)&format=image/tiff",
+    "bounds_l72": [
+      146000,
+      211000,
+      147000,
+      212000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "1d7346e774fedf6c2fd1a5ec54fc99d08466a038f754bad40ae4bc0d386557a2",
+    "retrieved_utc": "2026-08-11T12:17:31Z"
+  },
+  "DHMVII_DTM_1m_x147000_y211000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(147000,148000)&subset=y(211000,212000)&format=image/tiff",
+    "bounds_l72": [
+      147000,
+      211000,
+      148000,
+      212000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "549d9410a8769371cb35bfb4c6409cb65e7c185749096163b512626d6a57e824",
+    "retrieved_utc": "2026-08-11T12:17:31Z"
+  },
+  "DHMVII_DTM_1m_x148000_y211000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(148000,149000)&subset=y(211000,212000)&format=image/tiff",
+    "bounds_l72": [
+      148000,
+      211000,
+      149000,
+      212000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "3827f9f18fc656a4302c1eb6d8496123831c523b6d333afe821f56cd3c7845ad",
+    "retrieved_utc": "2026-08-11T12:17:32Z"
+  },
+  "DHMVII_DTM_1m_x149000_y211000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(149000,150000)&subset=y(211000,212000)&format=image/tiff",
+    "bounds_l72": [
+      149000,
+      211000,
+      150000,
+      212000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "d45969007a44aca0c3b06b2a195fc8a95e37b069f167b80bb8e0b65cdc744a26",
+    "retrieved_utc": "2026-08-11T12:17:33Z"
+  },
+  "DHMVII_DTM_1m_x150000_y211000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(150000,151000)&subset=y(211000,212000)&format=image/tiff",
+    "bounds_l72": [
+      150000,
+      211000,
+      151000,
+      212000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "5861d5966d6b870ebe15521c271cbd947fec0017052dc80bbcabf0896f640f65",
+    "retrieved_utc": "2026-08-11T12:17:34Z"
+  },
+  "DHMVII_DTM_1m_x151000_y211000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(151000,152000)&subset=y(211000,212000)&format=image/tiff",
+    "bounds_l72": [
+      151000,
+      211000,
+      152000,
+      212000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "b09b976ec110ba3376052fef096b2824a09ba3775e1033607a1b235ea9fb5c16",
+    "retrieved_utc": "2026-08-11T12:17:34Z"
+  },
+  "DHMVII_DTM_1m_x152000_y211000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(152000,153000)&subset=y(211000,212000)&format=image/tiff",
+    "bounds_l72": [
+      152000,
+      211000,
+      153000,
+      212000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "8468322750c4774447f0b7e94ac88de04616ba78bdcaabea0acc9cd999cd43b9",
+    "retrieved_utc": "2026-08-11T12:17:35Z"
+  },
+  "DHMVII_DTM_1m_x141000_y212000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(141000,142000)&subset=y(212000,213000)&format=image/tiff",
+    "bounds_l72": [
+      141000,
+      212000,
+      142000,
+      213000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "0e94a7b62586520b11d282003a9f0f30e518fa1a26b5b6ffc2c74b11ae8e4b93",
+    "retrieved_utc": "2026-08-11T12:17:36Z"
+  },
+  "DHMVII_DTM_1m_x142000_y212000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(142000,143000)&subset=y(212000,213000)&format=image/tiff",
+    "bounds_l72": [
+      142000,
+      212000,
+      143000,
+      213000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "8cffba63a54be31d5f11213405db336367c1e05ea7b14f992da4d55efff57e62",
+    "retrieved_utc": "2026-08-11T12:17:37Z"
+  },
+  "DHMVII_DTM_1m_x143000_y212000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(143000,144000)&subset=y(212000,213000)&format=image/tiff",
+    "bounds_l72": [
+      143000,
+      212000,
+      144000,
+      213000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "ba6a3da9acc55347e03514565c35f3b1189588407671dd423ff2ffd3b9f13113",
+    "retrieved_utc": "2026-08-11T12:17:38Z"
+  },
+  "DHMVII_DTM_1m_x144000_y212000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(144000,145000)&subset=y(212000,213000)&format=image/tiff",
+    "bounds_l72": [
+      144000,
+      212000,
+      145000,
+      213000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "5ecf0b2ea2aeb3859fd336e7a36f24fbde5b279bc924b0cfdd01fed2f98bcb3a",
+    "retrieved_utc": "2026-08-11T12:17:38Z"
+  },
+  "DHMVII_DTM_1m_x145000_y212000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(145000,146000)&subset=y(212000,213000)&format=image/tiff",
+    "bounds_l72": [
+      145000,
+      212000,
+      146000,
+      213000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "e2cbbe05df7b6a91c0a9f4a98ee1bf6406dc24ba875920ae86003d74038519f0",
+    "retrieved_utc": "2026-08-11T12:17:39Z"
+  },
+  "DHMVII_DTM_1m_x146000_y212000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(146000,147000)&subset=y(212000,213000)&format=image/tiff",
+    "bounds_l72": [
+      146000,
+      212000,
+      147000,
+      213000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "687302e29722bc8e2735977c45cb54064e024cc5c4c2d64d5035a9f885baa501",
+    "retrieved_utc": "2026-08-11T12:17:40Z"
+  },
+  "DHMVII_DTM_1m_x147000_y212000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(147000,148000)&subset=y(212000,213000)&format=image/tiff",
+    "bounds_l72": [
+      147000,
+      212000,
+      148000,
+      213000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "7a214b1d02aae86b974972c5f840acbeb5d706c4e9e7f1211bd5c62d93309f96",
+    "retrieved_utc": "2026-08-11T12:17:41Z"
+  },
+  "DHMVII_DTM_1m_x148000_y212000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(148000,149000)&subset=y(212000,213000)&format=image/tiff",
+    "bounds_l72": [
+      148000,
+      212000,
+      149000,
+      213000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "d847e84fc3ba78a84cf487f61a28b7ca813a57d11ebd97455341c80a60adbf7e",
+    "retrieved_utc": "2026-08-11T12:17:41Z"
+  },
+  "DHMVII_DTM_1m_x149000_y212000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(149000,150000)&subset=y(212000,213000)&format=image/tiff",
+    "bounds_l72": [
+      149000,
+      212000,
+      150000,
+      213000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "1bab172b977ab9846e4b57a4d4ecad60215826b841beb1b0f798058fd40ff415",
+    "retrieved_utc": "2026-08-11T12:17:42Z"
+  },
+  "DHMVII_DTM_1m_x150000_y212000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(150000,151000)&subset=y(212000,213000)&format=image/tiff",
+    "bounds_l72": [
+      150000,
+      212000,
+      151000,
+      213000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "a62939c53e14f03204d500b300f8a6f818eb46516fb1160afd67e6de3e6fc62e",
+    "retrieved_utc": "2026-08-11T12:17:43Z"
+  },
+  "DHMVII_DTM_1m_x151000_y212000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(151000,152000)&subset=y(212000,213000)&format=image/tiff",
+    "bounds_l72": [
+      151000,
+      212000,
+      152000,
+      213000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "af9e1bed5634e65c6cd6f5d259a01f7e7a9d9925546825e02333aadd3db5aaed",
+    "retrieved_utc": "2026-08-11T12:17:44Z"
+  },
+  "DHMVII_DTM_1m_x152000_y212000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(152000,153000)&subset=y(212000,213000)&format=image/tiff",
+    "bounds_l72": [
+      152000,
+      212000,
+      153000,
+      213000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "422bb130bc895c8b6fada786fa533ade370b8140b017798f0135c592c026fa0f",
+    "retrieved_utc": "2026-08-11T12:17:44Z"
+  },
+  "DHMVII_DTM_1m_x141000_y213000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(141000,142000)&subset=y(213000,214000)&format=image/tiff",
+    "bounds_l72": [
+      141000,
+      213000,
+      142000,
+      214000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "845118e1f3ec45234a63f5e7f56ba480a9a338f36b236ca3fa0d1568dfa05d11",
+    "retrieved_utc": "2026-08-11T12:17:45Z"
+  },
+  "DHMVII_DTM_1m_x142000_y213000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(142000,143000)&subset=y(213000,214000)&format=image/tiff",
+    "bounds_l72": [
+      142000,
+      213000,
+      143000,
+      214000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "59c75b37ab714c3913b2dcb9035b45da0f06b6c9e8f8ea69be008ec943704bb4",
+    "retrieved_utc": "2026-08-11T12:17:46Z"
+  },
+  "DHMVII_DTM_1m_x143000_y213000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(143000,144000)&subset=y(213000,214000)&format=image/tiff",
+    "bounds_l72": [
+      143000,
+      213000,
+      144000,
+      214000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "0237837bee81106b7b9051a3059562b30b5628c9983deebf8eebce97592e0f7d",
+    "retrieved_utc": "2026-08-11T12:17:47Z"
+  },
+  "DHMVII_DTM_1m_x144000_y213000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(144000,145000)&subset=y(213000,214000)&format=image/tiff",
+    "bounds_l72": [
+      144000,
+      213000,
+      145000,
+      214000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "3fd93c0d2837af4b1db9600e8e00815c0c412a1df3cb36e4b7814f65472a2e2c",
+    "retrieved_utc": "2026-08-11T12:17:48Z"
+  },
+  "DHMVII_DTM_1m_x145000_y213000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(145000,146000)&subset=y(213000,214000)&format=image/tiff",
+    "bounds_l72": [
+      145000,
+      213000,
+      146000,
+      214000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "06acf3ba1148f99f610c3472e26cb6fd5e044eab50099bf7a654dcead495d508",
+    "retrieved_utc": "2026-08-11T12:17:49Z"
+  },
+  "DHMVII_DTM_1m_x146000_y213000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(146000,147000)&subset=y(213000,214000)&format=image/tiff",
+    "bounds_l72": [
+      146000,
+      213000,
+      147000,
+      214000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "d93db17acf2ca30ba1936a3577ef34805e8b78dec77b339f8080daca65cebf27",
+    "retrieved_utc": "2026-08-11T12:17:49Z"
+  },
+  "DHMVII_DTM_1m_x147000_y213000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(147000,148000)&subset=y(213000,214000)&format=image/tiff",
+    "bounds_l72": [
+      147000,
+      213000,
+      148000,
+      214000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "6f858efde4d88062d69cd723a185715266ca484461af2ea08d66c7d38f5b9d3d",
+    "retrieved_utc": "2026-08-11T12:17:50Z"
+  },
+  "DHMVII_DTM_1m_x148000_y213000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(148000,149000)&subset=y(213000,214000)&format=image/tiff",
+    "bounds_l72": [
+      148000,
+      213000,
+      149000,
+      214000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "5ea096f83c809a1df94c5f6834fc57d95446d41d5e4cd70e6612bc4608031bc2",
+    "retrieved_utc": "2026-08-11T12:17:51Z"
+  },
+  "DHMVII_DTM_1m_x149000_y213000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(149000,150000)&subset=y(213000,214000)&format=image/tiff",
+    "bounds_l72": [
+      149000,
+      213000,
+      150000,
+      214000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "f769945d0426154bc6322f71b5fc7f83fd12a64923e0ffe9f2b5e434d3bc39e3",
+    "retrieved_utc": "2026-08-11T12:17:52Z"
+  },
+  "DHMVII_DTM_1m_x150000_y213000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(150000,151000)&subset=y(213000,214000)&format=image/tiff",
+    "bounds_l72": [
+      150000,
+      213000,
+      151000,
+      214000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "74cbe3a7b2af5d4c032b2c383012d24cb2e3b36274e8be403d9f1968934496e5",
+    "retrieved_utc": "2026-08-11T12:17:53Z"
+  },
+  "DHMVII_DTM_1m_x151000_y213000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(151000,152000)&subset=y(213000,214000)&format=image/tiff",
+    "bounds_l72": [
+      151000,
+      213000,
+      152000,
+      214000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "37f4dcb472c891d815b0273402123218c0eebefd86613627061b5d837541e1cb",
+    "retrieved_utc": "2026-08-11T12:17:53Z"
+  },
+  "DHMVII_DTM_1m_x152000_y213000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(152000,153000)&subset=y(213000,214000)&format=image/tiff",
+    "bounds_l72": [
+      152000,
+      213000,
+      153000,
+      214000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "a4f4f39c19a8f185e0b84c4aaf1ca29ee874fe5fd1aea171dd4981ca3b24f9ed",
+    "retrieved_utc": "2026-08-11T12:17:54Z"
+  },
+  "DHMVII_DTM_1m_x141000_y214000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(141000,142000)&subset=y(214000,215000)&format=image/tiff",
+    "bounds_l72": [
+      141000,
+      214000,
+      142000,
+      215000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "c26f693fd191f7754634f7ab6307b4c98cd895daab99fee5eb264715633be59e",
+    "retrieved_utc": "2026-08-11T12:17:55Z"
+  },
+  "DHMVII_DTM_1m_x142000_y214000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(142000,143000)&subset=y(214000,215000)&format=image/tiff",
+    "bounds_l72": [
+      142000,
+      214000,
+      143000,
+      215000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "12303e43ec412974a85264871228f209dfbe8b36061cc882c788038b303d1462",
+    "retrieved_utc": "2026-08-11T12:17:56Z"
+  },
+  "DHMVII_DTM_1m_x143000_y214000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(143000,144000)&subset=y(214000,215000)&format=image/tiff",
+    "bounds_l72": [
+      143000,
+      214000,
+      144000,
+      215000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "537c74443d5d5c0fd79e8fb19e4a4a2b2dbc6fa5129877e77347becb8693ee51",
+    "retrieved_utc": "2026-08-11T12:17:56Z"
+  },
+  "DHMVII_DTM_1m_x144000_y214000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(144000,145000)&subset=y(214000,215000)&format=image/tiff",
+    "bounds_l72": [
+      144000,
+      214000,
+      145000,
+      215000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "98235592a1f2f1ea5f40e551d5df8dabb7651b6287c1db5c9ba98af8896a3564",
+    "retrieved_utc": "2026-08-11T12:17:57Z"
+  },
+  "DHMVII_DTM_1m_x145000_y214000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(145000,146000)&subset=y(214000,215000)&format=image/tiff",
+    "bounds_l72": [
+      145000,
+      214000,
+      146000,
+      215000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "e2479e7dcaa2a53fd9c937511d5adc629897d6db75581e3f3101a19bc77f95d8",
+    "retrieved_utc": "2026-08-11T12:17:58Z"
+  },
+  "DHMVII_DTM_1m_x146000_y214000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(146000,147000)&subset=y(214000,215000)&format=image/tiff",
+    "bounds_l72": [
+      146000,
+      214000,
+      147000,
+      215000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "f15e0bf66a964720586aa2d0255d151550df38a900e09f6ead69ac96c1b5b3a7",
+    "retrieved_utc": "2026-08-11T12:17:59Z"
+  },
+  "DHMVII_DTM_1m_x147000_y214000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(147000,148000)&subset=y(214000,215000)&format=image/tiff",
+    "bounds_l72": [
+      147000,
+      214000,
+      148000,
+      215000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "398782a1c10435b4407e04c8b1b15589e7f487716d89111216673e2ee4ec2c78",
+    "retrieved_utc": "2026-08-11T12:18:00Z"
+  },
+  "DHMVII_DTM_1m_x148000_y214000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(148000,149000)&subset=y(214000,215000)&format=image/tiff",
+    "bounds_l72": [
+      148000,
+      214000,
+      149000,
+      215000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "fd2d6cddf2577db5ac57d0944fbc5946b432d3a6d8be9ebd079aa76a4e1da2cc",
+    "retrieved_utc": "2026-08-11T12:18:01Z"
+  },
+  "DHMVII_DTM_1m_x149000_y214000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(149000,150000)&subset=y(214000,215000)&format=image/tiff",
+    "bounds_l72": [
+      149000,
+      214000,
+      150000,
+      215000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "2ba0f4f2a064c43681086208c2397c42361926531b27e2258337f42a919d6082",
+    "retrieved_utc": "2026-08-11T12:18:02Z"
+  },
+  "DHMVII_DTM_1m_x150000_y214000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(150000,151000)&subset=y(214000,215000)&format=image/tiff",
+    "bounds_l72": [
+      150000,
+      214000,
+      151000,
+      215000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "2e27155ef14ef218c03b714b3bd8c02cff3cd49b1bf849304b9fcc7e16e39610",
+    "retrieved_utc": "2026-08-11T12:18:03Z"
+  },
+  "DHMVII_DTM_1m_x151000_y214000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(151000,152000)&subset=y(214000,215000)&format=image/tiff",
+    "bounds_l72": [
+      151000,
+      214000,
+      152000,
+      215000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "a4f26d6021887d247f91d47f247a83ed7548e25487c25cf6e626686cd98cab34",
+    "retrieved_utc": "2026-08-11T12:18:03Z"
+  },
+  "DHMVII_DTM_1m_x152000_y214000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(152000,153000)&subset=y(214000,215000)&format=image/tiff",
+    "bounds_l72": [
+      152000,
+      214000,
+      153000,
+      215000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "c428ce1dc666f6c8490683b97431741bbdc0fe8a10f231c56b77fdbb6a889aeb",
+    "retrieved_utc": "2026-08-11T12:18:04Z"
+  },
+  "DHMVII_DTM_1m_x141000_y215000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(141000,142000)&subset=y(215000,216000)&format=image/tiff",
+    "bounds_l72": [
+      141000,
+      215000,
+      142000,
+      216000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "4101a72a2574a2d5700c30afb6a7f57d4e5e58c428018b4e7c6ad796a1523629",
+    "retrieved_utc": "2026-08-11T12:18:05Z"
+  },
+  "DHMVII_DTM_1m_x142000_y215000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(142000,143000)&subset=y(215000,216000)&format=image/tiff",
+    "bounds_l72": [
+      142000,
+      215000,
+      143000,
+      216000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "d371109f113b0b662d04f716da138276391e42e919edf4fafe6ee21f553daa6e",
+    "retrieved_utc": "2026-08-11T12:18:06Z"
+  },
+  "DHMVII_DTM_1m_x143000_y215000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(143000,144000)&subset=y(215000,216000)&format=image/tiff",
+    "bounds_l72": [
+      143000,
+      215000,
+      144000,
+      216000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "b71fe5280e84d17bd3566ea83e35cdead1d3f6f30176287c5bbc2709d233ab03",
+    "retrieved_utc": "2026-08-11T12:18:07Z"
+  },
+  "DHMVII_DTM_1m_x144000_y215000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(144000,145000)&subset=y(215000,216000)&format=image/tiff",
+    "bounds_l72": [
+      144000,
+      215000,
+      145000,
+      216000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "978621e1a62c420e2f9d4a329774bb85224295414103e00500955752f3be6301",
+    "retrieved_utc": "2026-08-11T12:18:08Z"
+  },
+  "DHMVII_DTM_1m_x145000_y215000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(145000,146000)&subset=y(215000,216000)&format=image/tiff",
+    "bounds_l72": [
+      145000,
+      215000,
+      146000,
+      216000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "5986bfdda04b701ee2015538f859152246015d6358f88c7d642fe17555b18d8e",
+    "retrieved_utc": "2026-08-11T12:18:08Z"
+  },
+  "DHMVII_DTM_1m_x146000_y215000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(146000,147000)&subset=y(215000,216000)&format=image/tiff",
+    "bounds_l72": [
+      146000,
+      215000,
+      147000,
+      216000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "0788bfd3cb03d1584a01f6d448cca7a82956a7830ee432545d785654c9974d18",
+    "retrieved_utc": "2026-08-11T12:18:09Z"
+  },
+  "DHMVII_DTM_1m_x147000_y215000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(147000,148000)&subset=y(215000,216000)&format=image/tiff",
+    "bounds_l72": [
+      147000,
+      215000,
+      148000,
+      216000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "11ace05db5632205b0fa555ea46ead6aff46bd00ca1c57cca417779e6165b5b3",
+    "retrieved_utc": "2026-08-11T12:18:10Z"
+  },
+  "DHMVII_DTM_1m_x148000_y215000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(148000,149000)&subset=y(215000,216000)&format=image/tiff",
+    "bounds_l72": [
+      148000,
+      215000,
+      149000,
+      216000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "39346212a15ec126c0bafab6d8234b8006998b866607325296196ff024db2d9f",
+    "retrieved_utc": "2026-08-11T12:18:11Z"
+  },
+  "DHMVII_DTM_1m_x149000_y215000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(149000,150000)&subset=y(215000,216000)&format=image/tiff",
+    "bounds_l72": [
+      149000,
+      215000,
+      150000,
+      216000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "51b491edc53c51aff38a5b87224a7f939bc9d8f4896e5c9801f01b8511254b29",
+    "retrieved_utc": "2026-08-11T12:18:12Z"
+  },
+  "DHMVII_DTM_1m_x150000_y215000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(150000,151000)&subset=y(215000,216000)&format=image/tiff",
+    "bounds_l72": [
+      150000,
+      215000,
+      151000,
+      216000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "676e8b62aeb8c20da8f8b2b3924a5da5e3b7712cf740a52d787ff941597b046c",
+    "retrieved_utc": "2026-08-11T12:18:13Z"
+  },
+  "DHMVII_DTM_1m_x151000_y215000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(151000,152000)&subset=y(215000,216000)&format=image/tiff",
+    "bounds_l72": [
+      151000,
+      215000,
+      152000,
+      216000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "51e34ef9be3e169b2cf1f4c7cf5a7a6f54c752606b4da483ad3e279225185a47",
+    "retrieved_utc": "2026-08-11T12:18:14Z"
+  },
+  "DHMVII_DTM_1m_x152000_y215000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(152000,153000)&subset=y(215000,216000)&format=image/tiff",
+    "bounds_l72": [
+      152000,
+      215000,
+      153000,
+      216000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "c85d6982333d3a6bcbf2fdb6f53f9ad53749be5c4b170f9774eea94e344c26ad",
+    "retrieved_utc": "2026-08-11T12:18:15Z"
+  },
+  "DHMVII_DTM_1m_x141000_y216000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(141000,142000)&subset=y(216000,217000)&format=image/tiff",
+    "bounds_l72": [
+      141000,
+      216000,
+      142000,
+      217000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "2e9a91d711531b008ec38be7c5bf4c51af12b39dff5186024a1559f88c28f26a",
+    "retrieved_utc": "2026-08-11T12:18:16Z"
+  },
+  "DHMVII_DTM_1m_x142000_y216000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(142000,143000)&subset=y(216000,217000)&format=image/tiff",
+    "bounds_l72": [
+      142000,
+      216000,
+      143000,
+      217000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "a803ce6c3c77e06ee9b0b6a9e3bc29942eaa83c1c0025df3b31df63a03795421",
+    "retrieved_utc": "2026-08-11T12:18:18Z"
+  },
+  "DHMVII_DTM_1m_x143000_y216000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(143000,144000)&subset=y(216000,217000)&format=image/tiff",
+    "bounds_l72": [
+      143000,
+      216000,
+      144000,
+      217000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "5cf01698b2c55663199fc045287dd51cdc2eeafadc7b5da81135082a5ca03988",
+    "retrieved_utc": "2026-08-11T12:18:19Z"
+  },
+  "DHMVII_DTM_1m_x144000_y216000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(144000,145000)&subset=y(216000,217000)&format=image/tiff",
+    "bounds_l72": [
+      144000,
+      216000,
+      145000,
+      217000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "428dad0e7d9033656916fcba2353326052abfe677281c41ad28c1df22c5ce9f8",
+    "retrieved_utc": "2026-08-11T12:18:20Z"
+  },
+  "DHMVII_DTM_1m_x145000_y216000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(145000,146000)&subset=y(216000,217000)&format=image/tiff",
+    "bounds_l72": [
+      145000,
+      216000,
+      146000,
+      217000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "1749d6a081db45d90d5e2020fbe96c9b948b45d89d1bb2327937e51b9345ba91",
+    "retrieved_utc": "2026-08-11T12:18:21Z"
+  },
+  "DHMVII_DTM_1m_x146000_y216000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(146000,147000)&subset=y(216000,217000)&format=image/tiff",
+    "bounds_l72": [
+      146000,
+      216000,
+      147000,
+      217000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "cd8fa5094cd985c1297d78e22860738cab1f5a3b3e2291e531329cbd0049b156",
+    "retrieved_utc": "2026-08-11T12:18:22Z"
+  },
+  "DHMVII_DTM_1m_x147000_y216000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(147000,148000)&subset=y(216000,217000)&format=image/tiff",
+    "bounds_l72": [
+      147000,
+      216000,
+      148000,
+      217000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "47e3633497a6ce54aaba2952ffceb8889d944c3555421820202909465a367136",
+    "retrieved_utc": "2026-08-11T12:18:23Z"
+  },
+  "DHMVII_DTM_1m_x148000_y216000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(148000,149000)&subset=y(216000,217000)&format=image/tiff",
+    "bounds_l72": [
+      148000,
+      216000,
+      149000,
+      217000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "2ae8ec6ded82161faa6816a2d5602238c4dcb156ea3f5c670d7e56b66bcc0614",
+    "retrieved_utc": "2026-08-11T12:18:24Z"
+  },
+  "DHMVII_DTM_1m_x149000_y216000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(149000,150000)&subset=y(216000,217000)&format=image/tiff",
+    "bounds_l72": [
+      149000,
+      216000,
+      150000,
+      217000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "b29876c60aa338a7e8270fb065b76419d6d4616106741a9dd1c8a07ea177ce84",
+    "retrieved_utc": "2026-08-11T12:18:25Z"
+  },
+  "DHMVII_DTM_1m_x150000_y216000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(150000,151000)&subset=y(216000,217000)&format=image/tiff",
+    "bounds_l72": [
+      150000,
+      216000,
+      151000,
+      217000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "8ece2a706d84fd8d347b1794eca160f7cff931b480bb9f98382b02981633ec8b",
+    "retrieved_utc": "2026-08-11T12:18:26Z"
+  },
+  "DHMVII_DTM_1m_x151000_y216000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(151000,152000)&subset=y(216000,217000)&format=image/tiff",
+    "bounds_l72": [
+      151000,
+      216000,
+      152000,
+      217000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "cf64e08c873c3ca639dbedcd85e06ecde7a9478d70afe1418e041b93b1b4d609",
+    "retrieved_utc": "2026-08-11T12:18:27Z"
+  },
+  "DHMVII_DTM_1m_x152000_y216000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(152000,153000)&subset=y(216000,217000)&format=image/tiff",
+    "bounds_l72": [
+      152000,
+      216000,
+      153000,
+      217000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "50ef58cc409dc92290c8b4a589fd7999d37637a4d9becfcec08c308d388654d9",
+    "retrieved_utc": "2026-08-11T12:18:28Z"
+  },
+  "DHMVII_DSM_1m_x140000_y210000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(140000,141000)&subset=y(210000,211000)&format=image/tiff",
+    "bounds_l72": [
+      140000,
+      210000,
+      141000,
+      211000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "3aa52a67653c916af55020b765af3e55e0c32fcb51eaa4f01b728eb4f075c2ed",
+    "retrieved_utc": "2026-08-11T13:04:27Z"
+  },
+  "DHMVII_DSM_1m_x141000_y210000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(141000,142000)&subset=y(210000,211000)&format=image/tiff",
+    "bounds_l72": [
+      141000,
+      210000,
+      142000,
+      211000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "10b46b369a4733bc4c0e242b4357834487667e0984ffd37128f9b61384ed5470",
+    "retrieved_utc": "2026-08-11T13:04:28Z"
+  },
+  "DHMVII_DSM_1m_x142000_y210000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(142000,143000)&subset=y(210000,211000)&format=image/tiff",
+    "bounds_l72": [
+      142000,
+      210000,
+      143000,
+      211000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "c0287d36c3fdb3a7f0f3727f083c325b884f73acfa5993604787f46ed14ba2ba",
+    "retrieved_utc": "2026-08-11T13:04:29Z"
+  },
+  "DHMVII_DSM_1m_x143000_y210000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(143000,144000)&subset=y(210000,211000)&format=image/tiff",
+    "bounds_l72": [
+      143000,
+      210000,
+      144000,
+      211000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "6398336452e012fe566ed48e61a77ee6ab40de0b4946e618016aeece36cd3ef6",
+    "retrieved_utc": "2026-08-11T13:04:31Z"
+  },
+  "DHMVII_DSM_1m_x144000_y210000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(144000,145000)&subset=y(210000,211000)&format=image/tiff",
+    "bounds_l72": [
+      144000,
+      210000,
+      145000,
+      211000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "ede3cab9e5905fd25a3a1096a6b0d74d2e437b5ef0f9f0c2f9872892a315ff73",
+    "retrieved_utc": "2026-08-11T13:04:32Z"
+  },
+  "DHMVII_DSM_1m_x145000_y210000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(145000,146000)&subset=y(210000,211000)&format=image/tiff",
+    "bounds_l72": [
+      145000,
+      210000,
+      146000,
+      211000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "bc258f57263b1865b0e4c433d839b8d12e56ea480427bfea05f6ab20e4b13201",
+    "retrieved_utc": "2026-08-11T13:04:33Z"
+  },
+  "DHMVII_DSM_1m_x146000_y210000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(146000,147000)&subset=y(210000,211000)&format=image/tiff",
+    "bounds_l72": [
+      146000,
+      210000,
+      147000,
+      211000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "463c09b61b679a44f4f97d2b4cb1b035137033f3a5ce94f64143a722f0573844",
+    "retrieved_utc": "2026-08-11T13:04:34Z"
+  },
+  "DHMVII_DSM_1m_x147000_y210000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(147000,148000)&subset=y(210000,211000)&format=image/tiff",
+    "bounds_l72": [
+      147000,
+      210000,
+      148000,
+      211000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "9bdf449df6d280cadc7745fe8686a4e6f0bb054501dee5b2ec69f4c83520d420",
+    "retrieved_utc": "2026-08-11T13:04:36Z"
+  },
+  "DHMVII_DSM_1m_x148000_y210000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(148000,149000)&subset=y(210000,211000)&format=image/tiff",
+    "bounds_l72": [
+      148000,
+      210000,
+      149000,
+      211000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "e4c84243cea737e4342ec19b07b74d5a5630776a7deed77c5203afe1a1b6f5ac",
+    "retrieved_utc": "2026-08-11T13:04:37Z"
+  },
+  "DHMVII_DSM_1m_x149000_y210000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(149000,150000)&subset=y(210000,211000)&format=image/tiff",
+    "bounds_l72": [
+      149000,
+      210000,
+      150000,
+      211000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "f778cd4ff9ebec4c34a7a74fce79ab185e98935c9bd624ac7b8c3cfd41b5876f",
+    "retrieved_utc": "2026-08-11T13:04:39Z"
+  },
+  "DHMVII_DSM_1m_x150000_y210000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(150000,151000)&subset=y(210000,211000)&format=image/tiff",
+    "bounds_l72": [
+      150000,
+      210000,
+      151000,
+      211000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "c28f1fab14a97b91d5a8c2f5553a26d966f27c780cf74e1003d278195a45fb49",
+    "retrieved_utc": "2026-08-11T13:04:40Z"
+  },
+  "DHMVII_DSM_1m_x140000_y211000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(140000,141000)&subset=y(211000,212000)&format=image/tiff",
+    "bounds_l72": [
+      140000,
+      211000,
+      141000,
+      212000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "89f6fdf7414b23615958de84558348d41ae7ab0148ea8a927c5ddbf2a88ba3d6",
+    "retrieved_utc": "2026-08-11T13:04:41Z"
+  },
+  "DHMVII_DSM_1m_x140000_y212000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(140000,141000)&subset=y(212000,213000)&format=image/tiff",
+    "bounds_l72": [
+      140000,
+      212000,
+      141000,
+      213000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "ca30fd4450b9081a308ef0ffd3f77f519ef8c911361b97bc898a69bdb1b4e15f",
+    "retrieved_utc": "2026-08-11T13:04:42Z"
+  },
+  "DHMVII_DSM_1m_x140000_y213000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(140000,141000)&subset=y(213000,214000)&format=image/tiff",
+    "bounds_l72": [
+      140000,
+      213000,
+      141000,
+      214000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "514bd50cff8b11040d28c6aba818f01ad9022ae19143c6e79947c045efee6cf0",
+    "retrieved_utc": "2026-08-11T13:04:43Z"
+  },
+  "DHMVII_DSM_1m_x140000_y214000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(140000,141000)&subset=y(214000,215000)&format=image/tiff",
+    "bounds_l72": [
+      140000,
+      214000,
+      141000,
+      215000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "2c16520cd00cebb63723e34e26cfcd5c1ed1ab1324a7450c06a80a5755bd1138",
+    "retrieved_utc": "2026-08-11T13:04:45Z"
+  },
+  "DHMVII_DTM_1m_x140000_y210000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(140000,141000)&subset=y(210000,211000)&format=image/tiff",
+    "bounds_l72": [
+      140000,
+      210000,
+      141000,
+      211000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "d80b1ff20a7e08bdf62dfb69be5901f4e949dd0f12b89332e6094041abdc3387",
+    "retrieved_utc": "2026-08-11T13:04:47Z"
+  },
+  "DHMVII_DTM_1m_x141000_y210000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(141000,142000)&subset=y(210000,211000)&format=image/tiff",
+    "bounds_l72": [
+      141000,
+      210000,
+      142000,
+      211000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "899da89c3e2609473fd4aa24bc90fc5c4fe7e302cf4ac7808c07bcf648eb3e9b",
+    "retrieved_utc": "2026-08-11T13:04:48Z"
+  },
+  "DHMVII_DTM_1m_x142000_y210000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(142000,143000)&subset=y(210000,211000)&format=image/tiff",
+    "bounds_l72": [
+      142000,
+      210000,
+      143000,
+      211000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "b9086e0f85b012176112cb54fb3a5a5705d8ce38dde0ff5ad11db188c82186b2",
+    "retrieved_utc": "2026-08-11T13:04:50Z"
+  },
+  "DHMVII_DTM_1m_x143000_y210000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(143000,144000)&subset=y(210000,211000)&format=image/tiff",
+    "bounds_l72": [
+      143000,
+      210000,
+      144000,
+      211000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "a966d231c34f3c9e47317e6d427323cba064cc89a789707b67b00207ae986c9c",
+    "retrieved_utc": "2026-08-11T13:04:51Z"
+  },
+  "DHMVII_DTM_1m_x144000_y210000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(144000,145000)&subset=y(210000,211000)&format=image/tiff",
+    "bounds_l72": [
+      144000,
+      210000,
+      145000,
+      211000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "f90b316de96bf0cd744a045b85f6a79b56d6c4cab410d80689107fc9cc636563",
+    "retrieved_utc": "2026-08-11T13:04:52Z"
+  },
+  "DHMVII_DTM_1m_x145000_y210000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(145000,146000)&subset=y(210000,211000)&format=image/tiff",
+    "bounds_l72": [
+      145000,
+      210000,
+      146000,
+      211000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "7ab244021e223fd9b923efb64948aa08b9e1adfd97b2471c5292299b80d2b50f",
+    "retrieved_utc": "2026-08-11T13:04:54Z"
+  },
+  "DHMVII_DTM_1m_x146000_y210000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(146000,147000)&subset=y(210000,211000)&format=image/tiff",
+    "bounds_l72": [
+      146000,
+      210000,
+      147000,
+      211000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "0d80a40cf719b125a9c141df46b8b8ce2e0d92da4e84d68c54ff7848eeaabc5f",
+    "retrieved_utc": "2026-08-11T13:04:55Z"
+  },
+  "DHMVII_DTM_1m_x147000_y210000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(147000,148000)&subset=y(210000,211000)&format=image/tiff",
+    "bounds_l72": [
+      147000,
+      210000,
+      148000,
+      211000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "7db36bd0adc42b42a6f6dee3e166bb125ab209003f8f7da77f7adbe66a03189d",
+    "retrieved_utc": "2026-08-11T13:04:56Z"
+  },
+  "DHMVII_DTM_1m_x148000_y210000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(148000,149000)&subset=y(210000,211000)&format=image/tiff",
+    "bounds_l72": [
+      148000,
+      210000,
+      149000,
+      211000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "6bbaf2bb96914e878926d097b5deef7de5590c5ddd282f9af6d4b859d0b5ab55",
+    "retrieved_utc": "2026-08-11T13:04:57Z"
+  },
+  "DHMVII_DTM_1m_x149000_y210000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(149000,150000)&subset=y(210000,211000)&format=image/tiff",
+    "bounds_l72": [
+      149000,
+      210000,
+      150000,
+      211000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "0a53c6b500a9df4bd8cf5eeab52bdc80adeeb2b8b3b3161217e716ff41db95ee",
+    "retrieved_utc": "2026-08-11T13:04:58Z"
+  },
+  "DHMVII_DTM_1m_x150000_y210000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(150000,151000)&subset=y(210000,211000)&format=image/tiff",
+    "bounds_l72": [
+      150000,
+      210000,
+      151000,
+      211000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "1e394e43123778b560cced9a9e5566bb203b9334d62e37b53485f61279b9fff9",
+    "retrieved_utc": "2026-08-11T13:05:00Z"
+  },
+  "DHMVII_DTM_1m_x140000_y211000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(140000,141000)&subset=y(211000,212000)&format=image/tiff",
+    "bounds_l72": [
+      140000,
+      211000,
+      141000,
+      212000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "e3fa8447277d9e4d35fddb6cf356f39a8d6474b5ece7ee82b8dc5468793d3bf5",
+    "retrieved_utc": "2026-08-11T13:05:01Z"
+  },
+  "DHMVII_DTM_1m_x140000_y212000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(140000,141000)&subset=y(212000,213000)&format=image/tiff",
+    "bounds_l72": [
+      140000,
+      212000,
+      141000,
+      213000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "5f6bfd8646ae0abdf9ab8cbf97a5b05348c3dec43808e7ef8e39430f773deb33",
+    "retrieved_utc": "2026-08-11T13:05:02Z"
+  },
+  "DHMVII_DTM_1m_x140000_y213000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(140000,141000)&subset=y(213000,214000)&format=image/tiff",
+    "bounds_l72": [
+      140000,
+      213000,
+      141000,
+      214000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "7b6e0e8257a6f958d4c74b7b0cf9f58f814c5f81580caf0a3e9baee72e447eb2",
+    "retrieved_utc": "2026-08-11T13:05:04Z"
+  },
+  "DHMVII_DTM_1m_x140000_y214000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(140000,141000)&subset=y(214000,215000)&format=image/tiff",
+    "bounds_l72": [
+      140000,
+      214000,
+      141000,
+      215000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "b70898dfb21f63253f719b3e5371680332ac500ab33d27f033ce7b9e8c1781f6",
+    "retrieved_utc": "2026-08-11T13:05:05Z"
+  },
+  "DHMVII_DSM_1m_x151000_y210000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(151000,152000)&subset=y(210000,211000)&format=image/tiff",
+    "bounds_l72": [
+      151000,
+      210000,
+      152000,
+      211000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "cd0f19a31c0ec4cc662d547b829a0bcaa0a20b18ed4f43688fd0356c4ea20574",
+    "retrieved_utc": "2026-08-11T14:08:24Z"
+  },
+  "DHMVII_DSM_1m_x140000_y215000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(140000,141000)&subset=y(215000,216000)&format=image/tiff",
+    "bounds_l72": [
+      140000,
+      215000,
+      141000,
+      216000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "126fcc2c6398d84460a863aa9c4fa8d7a50d90e036a765216ad8dbee44eba137",
+    "retrieved_utc": "2026-08-11T14:08:26Z"
+  },
+  "DHMVII_DSM_1m_x142000_y217000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(142000,143000)&subset=y(217000,218000)&format=image/tiff",
+    "bounds_l72": [
+      142000,
+      217000,
+      143000,
+      218000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "f849220f98eab09977407be34377e3920c2f0b3380ec669afcd695afac3308da",
+    "retrieved_utc": "2026-08-11T14:08:27Z"
+  },
+  "DHMVII_DSM_1m_x143000_y217000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(143000,144000)&subset=y(217000,218000)&format=image/tiff",
+    "bounds_l72": [
+      143000,
+      217000,
+      144000,
+      218000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "ca2cc87fa2c9c3c44d3b7aff839a41bf15675ccbbfe5524d9adfbfb82f6a4118",
+    "retrieved_utc": "2026-08-11T14:08:28Z"
+  },
+  "DHMVII_DSM_1m_x144000_y217000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(144000,145000)&subset=y(217000,218000)&format=image/tiff",
+    "bounds_l72": [
+      144000,
+      217000,
+      145000,
+      218000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "ea7f6ffc6a8888bc051a65be84cee39a0df1d4b0e34d89fa6a614cc393505e1b",
+    "retrieved_utc": "2026-08-11T14:08:30Z"
+  },
+  "DHMVII_DSM_1m_x145000_y217000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(145000,146000)&subset=y(217000,218000)&format=image/tiff",
+    "bounds_l72": [
+      145000,
+      217000,
+      146000,
+      218000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "4ea75f0e70e2a713f453a811a4bb93e43c1315fc92a41b5674b6c094b2638527",
+    "retrieved_utc": "2026-08-11T14:08:31Z"
+  },
+  "DHMVII_DSM_1m_x146000_y217000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(146000,147000)&subset=y(217000,218000)&format=image/tiff",
+    "bounds_l72": [
+      146000,
+      217000,
+      147000,
+      218000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "2b3e3b9626d8b5ca328ef04cb16e3b7de457a46a04caf0b9c4707459ecd29cd4",
+    "retrieved_utc": "2026-08-11T14:08:32Z"
+  },
+  "DHMVII_DSM_1m_x147000_y217000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(147000,148000)&subset=y(217000,218000)&format=image/tiff",
+    "bounds_l72": [
+      147000,
+      217000,
+      148000,
+      218000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "aaa77088c9ac746cdc5201d8e8e416d4657cc3201380200b0ef78e14811b4c54",
+    "retrieved_utc": "2026-08-11T14:08:33Z"
+  },
+  "DHMVII_DSM_1m_x148000_y217000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(148000,149000)&subset=y(217000,218000)&format=image/tiff",
+    "bounds_l72": [
+      148000,
+      217000,
+      149000,
+      218000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "b5a644194a2aacd6d51fad44efa70189a3326aa35f823e6db84db78ade8185be",
+    "retrieved_utc": "2026-08-11T14:08:34Z"
+  },
+  "DHMVII_DSM_1m_x149000_y217000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(149000,150000)&subset=y(217000,218000)&format=image/tiff",
+    "bounds_l72": [
+      149000,
+      217000,
+      150000,
+      218000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "43dc7519a289cf67a95b43ed8fbf350676ccf84f6dde7c778608033cbd7dbf5e",
+    "retrieved_utc": "2026-08-11T14:08:36Z"
+  },
+  "DHMVII_DSM_1m_x150000_y217000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(150000,151000)&subset=y(217000,218000)&format=image/tiff",
+    "bounds_l72": [
+      150000,
+      217000,
+      151000,
+      218000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "311221479beaa6b482059b0417d39e0b7786cf3b8d759a0f7f579f4b19598cba",
+    "retrieved_utc": "2026-08-11T14:08:37Z"
+  },
+  "DHMVII_DSM_1m_x151000_y217000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(151000,152000)&subset=y(217000,218000)&format=image/tiff",
+    "bounds_l72": [
+      151000,
+      217000,
+      152000,
+      218000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "0afbec8bf1abf58a4c9302c1c193deecd1cbe776b550d5bf32de91af758c7f05",
+    "retrieved_utc": "2026-08-11T14:08:38Z"
+  },
+  "DHMVII_DSM_1m_x152000_y217000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(152000,153000)&subset=y(217000,218000)&format=image/tiff",
+    "bounds_l72": [
+      152000,
+      217000,
+      153000,
+      218000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "a973e7345681a96a8c0e25b22dd74ca661079ee834a22d96fa981ae603ccf9f5",
+    "retrieved_utc": "2026-08-11T14:08:39Z"
+  },
+  "DHMVII_DSM_1m_x142000_y218000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(142000,143000)&subset=y(218000,219000)&format=image/tiff",
+    "bounds_l72": [
+      142000,
+      218000,
+      143000,
+      219000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "be00c452e07f1a7d54ad06c3b1666d5d7729f98de8b8a530f0deb8bf72f663a1",
+    "retrieved_utc": "2026-08-11T14:08:40Z"
+  },
+  "DHMVII_DSM_1m_x143000_y218000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(143000,144000)&subset=y(218000,219000)&format=image/tiff",
+    "bounds_l72": [
+      143000,
+      218000,
+      144000,
+      219000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "9109f135b4fe2a12bea792c055b838210264f82cf79f4c12ea282e41dab425a9",
+    "retrieved_utc": "2026-08-11T14:08:41Z"
+  },
+  "DHMVII_DSM_1m_x144000_y218000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(144000,145000)&subset=y(218000,219000)&format=image/tiff",
+    "bounds_l72": [
+      144000,
+      218000,
+      145000,
+      219000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "3ecf6d46b64274c7960d71fd23eb27808111832fa43408a2152a0ae32c038e55",
+    "retrieved_utc": "2026-08-11T14:08:42Z"
+  },
+  "DHMVII_DSM_1m_x145000_y218000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(145000,146000)&subset=y(218000,219000)&format=image/tiff",
+    "bounds_l72": [
+      145000,
+      218000,
+      146000,
+      219000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "bb4639e5c28d5824de5c75e8595023acee55af998233d6e86bd85743a18af943",
+    "retrieved_utc": "2026-08-11T14:08:44Z"
+  },
+  "DHMVII_DSM_1m_x146000_y218000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(146000,147000)&subset=y(218000,219000)&format=image/tiff",
+    "bounds_l72": [
+      146000,
+      218000,
+      147000,
+      219000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "0e986550d3869e4b72c8fdca6eabce83515d30d8e77219fbfd3c8b580854bcc4",
+    "retrieved_utc": "2026-08-11T14:08:45Z"
+  },
+  "DHMVII_DSM_1m_x147000_y218000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(147000,148000)&subset=y(218000,219000)&format=image/tiff",
+    "bounds_l72": [
+      147000,
+      218000,
+      148000,
+      219000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "9cbd3f508d002186e7cc8b18c0353c6f1a0260af46a2ffcf602c36ed0bc72abe",
+    "retrieved_utc": "2026-08-11T14:08:46Z"
+  },
+  "DHMVII_DSM_1m_x148000_y218000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(148000,149000)&subset=y(218000,219000)&format=image/tiff",
+    "bounds_l72": [
+      148000,
+      218000,
+      149000,
+      219000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "89af2f48d5f7b5ecddc1730a09b982d2602fce56dfb3a8d6eeb818e43663d6ba",
+    "retrieved_utc": "2026-08-11T14:08:47Z"
+  },
+  "DHMVII_DSM_1m_x149000_y218000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(149000,150000)&subset=y(218000,219000)&format=image/tiff",
+    "bounds_l72": [
+      149000,
+      218000,
+      150000,
+      219000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "9d330f4552896ca77c7d1f172466d4b1ce4d1058c073d2eb346ef9706ff60a66",
+    "retrieved_utc": "2026-08-11T14:08:48Z"
+  },
+  "DHMVII_DSM_1m_x150000_y218000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(150000,151000)&subset=y(218000,219000)&format=image/tiff",
+    "bounds_l72": [
+      150000,
+      218000,
+      151000,
+      219000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "5ca191dd2af7ffd54b7048b11336a0f43b8036e64c9a298f907c6a32917cf8a8",
+    "retrieved_utc": "2026-08-11T14:08:50Z"
+  },
+  "DHMVII_DSM_1m_x151000_y218000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(151000,152000)&subset=y(218000,219000)&format=image/tiff",
+    "bounds_l72": [
+      151000,
+      218000,
+      152000,
+      219000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "df988a843519b066b9caf5714b077f06251e48873af5fc10f6a678a928fdf5bd",
+    "retrieved_utc": "2026-08-11T14:08:51Z"
+  },
+  "DHMVII_DSM_1m_x152000_y218000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(152000,153000)&subset=y(218000,219000)&format=image/tiff",
+    "bounds_l72": [
+      152000,
+      218000,
+      153000,
+      219000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "18e60ffb949c1754d4292751351fb4786e5f937fa8b8235cc4a137ec31c1e223",
+    "retrieved_utc": "2026-08-11T14:08:52Z"
+  },
+  "DHMVII_DTM_1m_x151000_y210000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(151000,152000)&subset=y(210000,211000)&format=image/tiff",
+    "bounds_l72": [
+      151000,
+      210000,
+      152000,
+      211000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "ac3ed867726fb2aad875b4b6d3e71b39be2ae26b231d2c0dc6fe429af314c42e",
+    "retrieved_utc": "2026-08-11T14:08:53Z"
+  },
+  "DHMVII_DTM_1m_x140000_y215000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(140000,141000)&subset=y(215000,216000)&format=image/tiff",
+    "bounds_l72": [
+      140000,
+      215000,
+      141000,
+      216000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "95843575f39c5ec2819b6e16b8e69420df13248e8ce8ad4c27c2615f334bb68b",
+    "retrieved_utc": "2026-08-11T14:08:54Z"
+  },
+  "DHMVII_DTM_1m_x142000_y217000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(142000,143000)&subset=y(217000,218000)&format=image/tiff",
+    "bounds_l72": [
+      142000,
+      217000,
+      143000,
+      218000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "640a9aeed88aadcd849669cf57ce17f2572a964a547b17922da9d4548c2606ef",
+    "retrieved_utc": "2026-08-11T14:08:56Z"
+  },
+  "DHMVII_DTM_1m_x143000_y217000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(143000,144000)&subset=y(217000,218000)&format=image/tiff",
+    "bounds_l72": [
+      143000,
+      217000,
+      144000,
+      218000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "4594b2431562737fd6f1fffb5152d008b8399319c0bb1d97a68abe8691387879",
+    "retrieved_utc": "2026-08-11T14:08:57Z"
+  },
+  "DHMVII_DTM_1m_x144000_y217000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(144000,145000)&subset=y(217000,218000)&format=image/tiff",
+    "bounds_l72": [
+      144000,
+      217000,
+      145000,
+      218000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "5ae43cf7a505dfe6ff914ab963606743fe8489d7162225304c810d080ab5bf28",
+    "retrieved_utc": "2026-08-11T14:08:58Z"
+  },
+  "DHMVII_DTM_1m_x145000_y217000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(145000,146000)&subset=y(217000,218000)&format=image/tiff",
+    "bounds_l72": [
+      145000,
+      217000,
+      146000,
+      218000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "1336fa9866401c36b615b28597c79f5aebed45900a0e71eea7e438ec458a95e7",
+    "retrieved_utc": "2026-08-11T14:08:59Z"
+  },
+  "DHMVII_DTM_1m_x146000_y217000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(146000,147000)&subset=y(217000,218000)&format=image/tiff",
+    "bounds_l72": [
+      146000,
+      217000,
+      147000,
+      218000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "e80da77bd3704ccea75c389cb2c146d255bfde8a9fe00ebed237ac7ff07324c5",
+    "retrieved_utc": "2026-08-11T14:09:00Z"
+  },
+  "DHMVII_DTM_1m_x147000_y217000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(147000,148000)&subset=y(217000,218000)&format=image/tiff",
+    "bounds_l72": [
+      147000,
+      217000,
+      148000,
+      218000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "6d48182a88b9d4c7ca21de2eb5139d7cb188c628bfc97231168468d1dc7eb85f",
+    "retrieved_utc": "2026-08-11T14:09:01Z"
+  },
+  "DHMVII_DTM_1m_x148000_y217000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(148000,149000)&subset=y(217000,218000)&format=image/tiff",
+    "bounds_l72": [
+      148000,
+      217000,
+      149000,
+      218000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "a75414ece963a9af0bef2a40d8960178404d0edf1f169221c5b34aaf2576e756",
+    "retrieved_utc": "2026-08-11T14:09:02Z"
+  },
+  "DHMVII_DTM_1m_x149000_y217000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(149000,150000)&subset=y(217000,218000)&format=image/tiff",
+    "bounds_l72": [
+      149000,
+      217000,
+      150000,
+      218000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "a874897476fb0b1d64f78b8b411cc73f42b2f1620d87e4107d6df5b21e9d2ba0",
+    "retrieved_utc": "2026-08-11T14:09:04Z"
+  },
+  "DHMVII_DTM_1m_x150000_y217000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(150000,151000)&subset=y(217000,218000)&format=image/tiff",
+    "bounds_l72": [
+      150000,
+      217000,
+      151000,
+      218000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "7636fd128dad3650eca5a07ecfdbc3374daa1aab03987665732aa5f027229fc2",
+    "retrieved_utc": "2026-08-11T14:09:05Z"
+  },
+  "DHMVII_DTM_1m_x151000_y217000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(151000,152000)&subset=y(217000,218000)&format=image/tiff",
+    "bounds_l72": [
+      151000,
+      217000,
+      152000,
+      218000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "b3ff675f2e645dfe44d14207ad35f21dfe8e1fd4ac052422d80a0b9d2241fc4d",
+    "retrieved_utc": "2026-08-11T14:09:06Z"
+  },
+  "DHMVII_DTM_1m_x152000_y217000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(152000,153000)&subset=y(217000,218000)&format=image/tiff",
+    "bounds_l72": [
+      152000,
+      217000,
+      153000,
+      218000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "4c087000e0938cb29f18b25c859c3170947eecd298afed94ed21c88cb4af6caa",
+    "retrieved_utc": "2026-08-11T14:09:07Z"
+  },
+  "DHMVII_DTM_1m_x142000_y218000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(142000,143000)&subset=y(218000,219000)&format=image/tiff",
+    "bounds_l72": [
+      142000,
+      218000,
+      143000,
+      219000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "9f12f54affcb457c502998fd7575b34658405384d5dd53a13d3101423093a47f",
+    "retrieved_utc": "2026-08-11T14:09:08Z"
+  },
+  "DHMVII_DTM_1m_x143000_y218000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(143000,144000)&subset=y(218000,219000)&format=image/tiff",
+    "bounds_l72": [
+      143000,
+      218000,
+      144000,
+      219000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "61a903560ceae54ff7e04d77ba9a8dc38144f45bdb29fadaf44e65d63cfd2920",
+    "retrieved_utc": "2026-08-11T14:09:09Z"
+  },
+  "DHMVII_DTM_1m_x144000_y218000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(144000,145000)&subset=y(218000,219000)&format=image/tiff",
+    "bounds_l72": [
+      144000,
+      218000,
+      145000,
+      219000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "9ffb402f85a62cdffa40fadc19c2defaa3bcddb2af32825933b0527ec9e10c06",
+    "retrieved_utc": "2026-08-11T14:09:11Z"
+  },
+  "DHMVII_DTM_1m_x145000_y218000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(145000,146000)&subset=y(218000,219000)&format=image/tiff",
+    "bounds_l72": [
+      145000,
+      218000,
+      146000,
+      219000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "7383ec6d9aef33af7b22bd81b66783eb00a99ff00ba5afe310f01522409cff38",
+    "retrieved_utc": "2026-08-11T14:09:12Z"
+  },
+  "DHMVII_DTM_1m_x146000_y218000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(146000,147000)&subset=y(218000,219000)&format=image/tiff",
+    "bounds_l72": [
+      146000,
+      218000,
+      147000,
+      219000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "e85a2b070ebea48c9c19a94eb0a72b892ac79ed11337dbd5b18753917a41e41f",
+    "retrieved_utc": "2026-08-11T14:09:13Z"
+  },
+  "DHMVII_DTM_1m_x147000_y218000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(147000,148000)&subset=y(218000,219000)&format=image/tiff",
+    "bounds_l72": [
+      147000,
+      218000,
+      148000,
+      219000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "a2f22735eaf5a8e23a2556f292b8af1fb55d9a998592f282f67fd5e49514c652",
+    "retrieved_utc": "2026-08-11T14:09:14Z"
+  },
+  "DHMVII_DTM_1m_x148000_y218000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(148000,149000)&subset=y(218000,219000)&format=image/tiff",
+    "bounds_l72": [
+      148000,
+      218000,
+      149000,
+      219000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "1b5df268cb63defbe923cc8fe359d57a241a9e945ee9d3f11f3b2c697f118754",
+    "retrieved_utc": "2026-08-11T14:09:15Z"
+  },
+  "DHMVII_DTM_1m_x149000_y218000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(149000,150000)&subset=y(218000,219000)&format=image/tiff",
+    "bounds_l72": [
+      149000,
+      218000,
+      150000,
+      219000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "2aa8a798203db4c4ecb5c4d6fadb15a574afa8db7378b2e0cbd511494bde77ab",
+    "retrieved_utc": "2026-08-11T14:09:16Z"
+  },
+  "DHMVII_DTM_1m_x150000_y218000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(150000,151000)&subset=y(218000,219000)&format=image/tiff",
+    "bounds_l72": [
+      150000,
+      218000,
+      151000,
+      219000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "91e0873085b4ff4d63d675e6409991a2dd9e970419e8ce3457647344b676f4ff",
+    "retrieved_utc": "2026-08-11T14:09:17Z"
+  },
+  "DHMVII_DTM_1m_x151000_y218000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(151000,152000)&subset=y(218000,219000)&format=image/tiff",
+    "bounds_l72": [
+      151000,
+      218000,
+      152000,
+      219000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "aa13e7c588058474446613ffa27aa2f1866823466101bf3d51232b30d22c2463",
+    "retrieved_utc": "2026-08-11T14:09:18Z"
+  },
+  "DHMVII_DTM_1m_x152000_y218000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(152000,153000)&subset=y(218000,219000)&format=image/tiff",
+    "bounds_l72": [
+      152000,
+      218000,
+      153000,
+      219000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "9a46c2e46ec73e0a07bd024fdf7a456e33af22a7be69cb55e41a358e54896733",
+    "retrieved_utc": "2026-08-11T14:09:20Z"
+  },
+  "DHMVII_DSM_1m_x152000_y210000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(152000,153000)&subset=y(210000,211000)&format=image/tiff",
+    "bounds_l72": [
+      152000,
+      210000,
+      153000,
+      211000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "44b315ee5941722e953d8e2a89e2eb715eedbfd99d1279e9bc50b7e2f83d6bd5",
+    "retrieved_utc": "2026-08-11T20:43:48Z"
+  },
+  "DHMVII_DSM_1m_x153000_y210000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(153000,154000)&subset=y(210000,211000)&format=image/tiff",
+    "bounds_l72": [
+      153000,
+      210000,
+      154000,
+      211000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "67c9155ad4bcea5e86fb4a6b42d4610922fa6555e7bdc1c38516f55b22ae2921",
+    "retrieved_utc": "2026-08-11T20:43:49Z"
+  },
+  "DHMVII_DSM_1m_x153000_y211000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(153000,154000)&subset=y(211000,212000)&format=image/tiff",
+    "bounds_l72": [
+      153000,
+      211000,
+      154000,
+      212000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "9fbe385a0485e8db5df092bc64c25f86e12f325d8570ef2e8641d8bba271f96e",
+    "retrieved_utc": "2026-08-11T20:43:50Z"
+  },
+  "DHMVII_DSM_1m_x153000_y212000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(153000,154000)&subset=y(212000,213000)&format=image/tiff",
+    "bounds_l72": [
+      153000,
+      212000,
+      154000,
+      213000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "b0cf2472a46c148483de96296a9168ff760ea53386fce3a5e173a4dea06be420",
+    "retrieved_utc": "2026-08-11T20:43:51Z"
+  },
+  "DHMVII_DSM_1m_x153000_y213000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(153000,154000)&subset=y(213000,214000)&format=image/tiff",
+    "bounds_l72": [
+      153000,
+      213000,
+      154000,
+      214000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "3953e59de9850f5dae38b1cf05f757ccacd03531ad5b8a2ca77606c5630d24c8",
+    "retrieved_utc": "2026-08-11T20:43:52Z"
+  },
+  "DHMVII_DSM_1m_x153000_y214000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(153000,154000)&subset=y(214000,215000)&format=image/tiff",
+    "bounds_l72": [
+      153000,
+      214000,
+      154000,
+      215000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "ec222dc911c432c30854334661954372a9f834e73e643d828947f4dc85a033c6",
+    "retrieved_utc": "2026-08-11T20:43:52Z"
+  },
+  "DHMVII_DTM_1m_x152000_y210000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(152000,153000)&subset=y(210000,211000)&format=image/tiff",
+    "bounds_l72": [
+      152000,
+      210000,
+      153000,
+      211000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "5f4d7d2d7c31642d3d6b5adcd6e09556a440559c218a4a6cb6feb0700d5cde9b",
+    "retrieved_utc": "2026-08-11T20:43:53Z"
+  },
+  "DHMVII_DTM_1m_x153000_y210000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(153000,154000)&subset=y(210000,211000)&format=image/tiff",
+    "bounds_l72": [
+      153000,
+      210000,
+      154000,
+      211000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "addec6c91202f666aa20e1a82f8532060ebfba90032e164b662bf8ef4f3b1661",
+    "retrieved_utc": "2026-08-11T20:43:54Z"
+  },
+  "DHMVII_DTM_1m_x153000_y211000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(153000,154000)&subset=y(211000,212000)&format=image/tiff",
+    "bounds_l72": [
+      153000,
+      211000,
+      154000,
+      212000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "251af455822aecd10b6afa2a6615e5222359a1e37dec8f2cc3c6d0c3244fe79f",
+    "retrieved_utc": "2026-08-11T20:43:55Z"
+  },
+  "DHMVII_DTM_1m_x153000_y212000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(153000,154000)&subset=y(212000,213000)&format=image/tiff",
+    "bounds_l72": [
+      153000,
+      212000,
+      154000,
+      213000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "fe90dc07469e4132409e0f05c24c6c76da05c8ac3ac844ab12a99f8dcf89fefb",
+    "retrieved_utc": "2026-08-11T20:43:56Z"
+  },
+  "DHMVII_DTM_1m_x153000_y213000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(153000,154000)&subset=y(213000,214000)&format=image/tiff",
+    "bounds_l72": [
+      153000,
+      213000,
+      154000,
+      214000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "102c5c699dc0bfefdedfc06429177e9614cbba7e3b08993791b14befb3673513",
+    "retrieved_utc": "2026-08-11T20:43:57Z"
+  },
+  "DHMVII_DTM_1m_x153000_y214000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(153000,154000)&subset=y(214000,215000)&format=image/tiff",
+    "bounds_l72": [
+      153000,
+      214000,
+      154000,
+      215000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "cc18a23ac5473feac693f8032bc5643da3eda6a19a4c06c61d489549f04aa913",
+    "retrieved_utc": "2026-08-11T20:43:58Z"
+  },
+  "DHMVII_DSM_1m_x147000_y208000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(147000,148000)&subset=y(208000,209000)&format=image/tiff",
+    "bounds_l72": [
+      147000,
+      208000,
+      148000,
+      209000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "c08b4e07bf821628fb7e3b14f05d46c37ab75335521f18f2b585e3b6826e7ab7",
+    "retrieved_utc": "2026-08-11T20:51:28Z"
+  },
+  "DHMVII_DSM_1m_x147000_y209000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(147000,148000)&subset=y(209000,210000)&format=image/tiff",
+    "bounds_l72": [
+      147000,
+      209000,
+      148000,
+      210000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "baf40347e751fbafad22e92671e8822780374563582c16dec80f9b8795ea262f",
+    "retrieved_utc": "2026-08-11T20:51:28Z"
+  },
+  "DHMVII_DSM_1m_x148000_y208000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(148000,149000)&subset=y(208000,209000)&format=image/tiff",
+    "bounds_l72": [
+      148000,
+      208000,
+      149000,
+      209000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "7cb8e0d17ad592b081b623c6adc32066478ef3e1609ad085bedee2da1f4b2670",
+    "retrieved_utc": "2026-08-11T20:51:29Z"
+  },
+  "DHMVII_DSM_1m_x148000_y209000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(148000,149000)&subset=y(209000,210000)&format=image/tiff",
+    "bounds_l72": [
+      148000,
+      209000,
+      149000,
+      210000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "913c3dc519b63eb42cb9a2f6844872342589130efb51247af4f1e82711f70727",
+    "retrieved_utc": "2026-08-11T20:51:30Z"
+  },
+  "DHMVII_DSM_1m_x149000_y208000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(149000,150000)&subset=y(208000,209000)&format=image/tiff",
+    "bounds_l72": [
+      149000,
+      208000,
+      150000,
+      209000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "b4d099314a8294a5a50607abc789588ebcc3d3f0f58c795441f726415533a26d",
+    "retrieved_utc": "2026-08-11T20:51:31Z"
+  },
+  "DHMVII_DSM_1m_x149000_y209000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(149000,150000)&subset=y(209000,210000)&format=image/tiff",
+    "bounds_l72": [
+      149000,
+      209000,
+      150000,
+      210000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "5caef31e1ff9b33294949493e3dfb42a8f95ca4910fab2ff8e6979bef38d51ae",
+    "retrieved_utc": "2026-08-11T20:51:32Z"
+  },
+  "DHMVII_DSM_1m_x150000_y208000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(150000,151000)&subset=y(208000,209000)&format=image/tiff",
+    "bounds_l72": [
+      150000,
+      208000,
+      151000,
+      209000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "2601abb4a07eb531ee136d90ce3e52b9953e751a30cf156ca0ad682f0f250f6c",
+    "retrieved_utc": "2026-08-11T20:51:33Z"
+  },
+  "DHMVII_DSM_1m_x150000_y209000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(150000,151000)&subset=y(209000,210000)&format=image/tiff",
+    "bounds_l72": [
+      150000,
+      209000,
+      151000,
+      210000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "f26c48040d14c4854220bae7a118fd4fd759957170b878797d8d264e5f0918fb",
+    "retrieved_utc": "2026-08-11T20:51:34Z"
+  },
+  "DHMVII_DSM_1m_x151000_y208000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(151000,152000)&subset=y(208000,209000)&format=image/tiff",
+    "bounds_l72": [
+      151000,
+      208000,
+      152000,
+      209000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "d7d042b854cd4ff0fa62ff909f29a2cdb1e8c1c4e00deed1490b4547c24614e0",
+    "retrieved_utc": "2026-08-11T20:51:34Z"
+  },
+  "DHMVII_DSM_1m_x151000_y209000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(151000,152000)&subset=y(209000,210000)&format=image/tiff",
+    "bounds_l72": [
+      151000,
+      209000,
+      152000,
+      210000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "49d3018f2a15624173b8a02d00515999a42e47a447c0dafd023a00db3ea4af83",
+    "retrieved_utc": "2026-08-11T20:51:35Z"
+  },
+  "DHMVII_DSM_1m_x152000_y208000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(152000,153000)&subset=y(208000,209000)&format=image/tiff",
+    "bounds_l72": [
+      152000,
+      208000,
+      153000,
+      209000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "c4069101b5ef228615583b50284d64674bd3083005e874f91927ccb420f7aac5",
+    "retrieved_utc": "2026-08-11T20:51:36Z"
+  },
+  "DHMVII_DSM_1m_x152000_y209000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(152000,153000)&subset=y(209000,210000)&format=image/tiff",
+    "bounds_l72": [
+      152000,
+      209000,
+      153000,
+      210000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "796dc14200ccbc6ce3861eedd77e1ed0161805aa609a4b1bb80f7c671c4b9863",
+    "retrieved_utc": "2026-08-11T20:51:37Z"
+  },
+  "DHMVII_DSM_1m_x153000_y208000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(153000,154000)&subset=y(208000,209000)&format=image/tiff",
+    "bounds_l72": [
+      153000,
+      208000,
+      154000,
+      209000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "57a503b13bbb1cfe4fbf5806d34a562da77e26b57f4aa7d48cf3605ed2fb884d",
+    "retrieved_utc": "2026-08-11T20:51:38Z"
+  },
+  "DHMVII_DSM_1m_x153000_y209000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(153000,154000)&subset=y(209000,210000)&format=image/tiff",
+    "bounds_l72": [
+      153000,
+      209000,
+      154000,
+      210000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "cc5a0513661bef4344d9dad07479f531e7bf7fd8870bbb0c58c2f0174f013a43",
+    "retrieved_utc": "2026-08-11T20:51:38Z"
+  },
+  "DHMVII_DSM_1m_x153000_y215000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(153000,154000)&subset=y(215000,216000)&format=image/tiff",
+    "bounds_l72": [
+      153000,
+      215000,
+      154000,
+      216000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "77eba647a00e3c57b48814ae322e3d4f91dba3c0846906a0b97b813915b49363",
+    "retrieved_utc": "2026-08-11T20:51:39Z"
+  },
+  "DHMVII_DSM_1m_x153000_y216000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(153000,154000)&subset=y(216000,217000)&format=image/tiff",
+    "bounds_l72": [
+      153000,
+      216000,
+      154000,
+      217000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "b2107f8008669cfba3d75edc4528f9f2cf2d9f4314c6af06ab6e813c530c9599",
+    "retrieved_utc": "2026-08-11T20:51:40Z"
+  },
+  "DHMVII_DSM_1m_x154000_y208000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(154000,155000)&subset=y(208000,209000)&format=image/tiff",
+    "bounds_l72": [
+      154000,
+      208000,
+      155000,
+      209000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "faa241f2776b250230ad5bb90fe536ba242360c05c1bffe0442a0db206f89130",
+    "retrieved_utc": "2026-08-11T20:51:41Z"
+  },
+  "DHMVII_DSM_1m_x154000_y209000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(154000,155000)&subset=y(209000,210000)&format=image/tiff",
+    "bounds_l72": [
+      154000,
+      209000,
+      155000,
+      210000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "a7e3f34e94220a58f3a08d324a51ccc0d2c72851ae530599014ae8b8d66e40ae",
+    "retrieved_utc": "2026-08-11T20:51:42Z"
+  },
+  "DHMVII_DSM_1m_x154000_y210000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(154000,155000)&subset=y(210000,211000)&format=image/tiff",
+    "bounds_l72": [
+      154000,
+      210000,
+      155000,
+      211000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "48eae4de4fce3d688d374973a0980806534744496caa5d431a1aac5546eb142a",
+    "retrieved_utc": "2026-08-11T20:51:43Z"
+  },
+  "DHMVII_DSM_1m_x154000_y211000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(154000,155000)&subset=y(211000,212000)&format=image/tiff",
+    "bounds_l72": [
+      154000,
+      211000,
+      155000,
+      212000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "f21ec6207a39c1f29c96585338d09e8fc3f01d1941148dfd37c1f4d25f49fbd8",
+    "retrieved_utc": "2026-08-11T20:51:43Z"
+  },
+  "DHMVII_DSM_1m_x154000_y212000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(154000,155000)&subset=y(212000,213000)&format=image/tiff",
+    "bounds_l72": [
+      154000,
+      212000,
+      155000,
+      213000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "33b59bd95b61d6689603bc4a5488ed0083e40e21eb467c57169787663b172533",
+    "retrieved_utc": "2026-08-11T20:51:44Z"
+  },
+  "DHMVII_DSM_1m_x154000_y213000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(154000,155000)&subset=y(213000,214000)&format=image/tiff",
+    "bounds_l72": [
+      154000,
+      213000,
+      155000,
+      214000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "6f2d6b804948388aee95850c17be3c4f05b56d39a54aa48015cf3e9b1a402df2",
+    "retrieved_utc": "2026-08-11T20:51:45Z"
+  },
+  "DHMVII_DSM_1m_x154000_y214000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(154000,155000)&subset=y(214000,215000)&format=image/tiff",
+    "bounds_l72": [
+      154000,
+      214000,
+      155000,
+      215000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "c68a93cbe211243d5133147e896c9eb8bc106a794b1e4d87f1749032459ceed7",
+    "retrieved_utc": "2026-08-11T20:51:46Z"
+  },
+  "DHMVII_DSM_1m_x154000_y215000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(154000,155000)&subset=y(215000,216000)&format=image/tiff",
+    "bounds_l72": [
+      154000,
+      215000,
+      155000,
+      216000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "b5d46c1b8b9fcaeef97fa7e8267ea986dab359680566122ff6375aa90fecf151",
+    "retrieved_utc": "2026-08-11T20:51:46Z"
+  },
+  "DHMVII_DSM_1m_x154000_y216000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(154000,155000)&subset=y(216000,217000)&format=image/tiff",
+    "bounds_l72": [
+      154000,
+      216000,
+      155000,
+      217000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "d28ecd84234608831a16b8fe5322fe3d3c55f3b64ff6607a0b07e18e54e1c980",
+    "retrieved_utc": "2026-08-11T20:51:47Z"
+  },
+  "DHMVII_DSM_1m_x155000_y208000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(155000,156000)&subset=y(208000,209000)&format=image/tiff",
+    "bounds_l72": [
+      155000,
+      208000,
+      156000,
+      209000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "411e3188d351600960d31d342e28b2c512e966585b770bab540ac50c6b4d3fc6",
+    "retrieved_utc": "2026-08-11T20:51:48Z"
+  },
+  "DHMVII_DSM_1m_x155000_y209000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(155000,156000)&subset=y(209000,210000)&format=image/tiff",
+    "bounds_l72": [
+      155000,
+      209000,
+      156000,
+      210000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "359a34fd1b0a4ac0482d3171a52957f0aadc9e95d9ffc7cf9611abaa34309466",
+    "retrieved_utc": "2026-08-11T20:51:49Z"
+  },
+  "DHMVII_DSM_1m_x155000_y210000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(155000,156000)&subset=y(210000,211000)&format=image/tiff",
+    "bounds_l72": [
+      155000,
+      210000,
+      156000,
+      211000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "b8432bc713f4d5357fb8d52d1126e89d1fa7ce990ca6a60bb7645c7cac0ba88d",
+    "retrieved_utc": "2026-08-11T20:51:49Z"
+  },
+  "DHMVII_DSM_1m_x155000_y211000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(155000,156000)&subset=y(211000,212000)&format=image/tiff",
+    "bounds_l72": [
+      155000,
+      211000,
+      156000,
+      212000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "365b1b4f4f11ce90a7d69d146da1346640fc04380fd67c730100903c0f72ea1f",
+    "retrieved_utc": "2026-08-11T20:51:50Z"
+  },
+  "DHMVII_DSM_1m_x155000_y212000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(155000,156000)&subset=y(212000,213000)&format=image/tiff",
+    "bounds_l72": [
+      155000,
+      212000,
+      156000,
+      213000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "13e777dc2e85eac714933b668664ad40388aa17fda40f9d52faabdc3f8268379",
+    "retrieved_utc": "2026-08-11T20:51:51Z"
+  },
+  "DHMVII_DSM_1m_x155000_y213000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(155000,156000)&subset=y(213000,214000)&format=image/tiff",
+    "bounds_l72": [
+      155000,
+      213000,
+      156000,
+      214000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "31b6dcfcea408c1494bacb15e54dfcda05b96de6763961a0b7a61197aae0f7d1",
+    "retrieved_utc": "2026-08-11T20:51:52Z"
+  },
+  "DHMVII_DSM_1m_x155000_y214000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(155000,156000)&subset=y(214000,215000)&format=image/tiff",
+    "bounds_l72": [
+      155000,
+      214000,
+      156000,
+      215000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "f7a2884e0587f1919a5458a77d23ecbd7d534f96f87cd9b5461bfd4199c69586",
+    "retrieved_utc": "2026-08-11T20:51:52Z"
+  },
+  "DHMVII_DSM_1m_x155000_y215000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(155000,156000)&subset=y(215000,216000)&format=image/tiff",
+    "bounds_l72": [
+      155000,
+      215000,
+      156000,
+      216000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "00bc16c188d0912d3cac26884f43199d5e068b4ef93bb512c912dc609ab4f778",
+    "retrieved_utc": "2026-08-11T20:51:53Z"
+  },
+  "DHMVII_DSM_1m_x155000_y216000_t1000.tif": {
+    "coverage": "DHMVII_DSM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DSM_1m&subset=x(155000,156000)&subset=y(216000,217000)&format=image/tiff",
+    "bounds_l72": [
+      155000,
+      216000,
+      156000,
+      217000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "b8d8aa5d1f95b779a272b622a7e6c4103913b3cd99917ab8080068c88d0c9960",
+    "retrieved_utc": "2026-08-11T20:51:54Z"
+  },
+  "DHMVII_DTM_1m_x147000_y208000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(147000,148000)&subset=y(208000,209000)&format=image/tiff",
+    "bounds_l72": [
+      147000,
+      208000,
+      148000,
+      209000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "01f431ba093b91e6587ff85206bd73420cf204256678ad5636825fefacd00ab0",
+    "retrieved_utc": "2026-08-11T20:51:55Z"
+  },
+  "DHMVII_DTM_1m_x147000_y209000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(147000,148000)&subset=y(209000,210000)&format=image/tiff",
+    "bounds_l72": [
+      147000,
+      209000,
+      148000,
+      210000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "676045eae199221858adc12b3529f0813774956b4e733188c4083a639336176a",
+    "retrieved_utc": "2026-08-11T20:51:56Z"
+  },
+  "DHMVII_DTM_1m_x148000_y208000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(148000,149000)&subset=y(208000,209000)&format=image/tiff",
+    "bounds_l72": [
+      148000,
+      208000,
+      149000,
+      209000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "a970f12f629f6ba09206f8db3cad4ef3d6a3d8b5f82c8f3bd14286d03e0c3469",
+    "retrieved_utc": "2026-08-11T20:51:56Z"
+  },
+  "DHMVII_DTM_1m_x148000_y209000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(148000,149000)&subset=y(209000,210000)&format=image/tiff",
+    "bounds_l72": [
+      148000,
+      209000,
+      149000,
+      210000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "1309350d97063cc3db658567e1c5e57e9b3985b2f87288f9f9486091e28ff1df",
+    "retrieved_utc": "2026-08-11T20:51:57Z"
+  },
+  "DHMVII_DTM_1m_x149000_y208000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(149000,150000)&subset=y(208000,209000)&format=image/tiff",
+    "bounds_l72": [
+      149000,
+      208000,
+      150000,
+      209000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "ccd2bed75b0f3c4b8d1e731cf57caa2ddc97ab921d38e7e75d6c9808c97c76fe",
+    "retrieved_utc": "2026-08-11T20:51:58Z"
+  },
+  "DHMVII_DTM_1m_x149000_y209000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(149000,150000)&subset=y(209000,210000)&format=image/tiff",
+    "bounds_l72": [
+      149000,
+      209000,
+      150000,
+      210000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "82f28c5e16eae8e0db322c1429c7eec2424de7ac37810bc7c2240a42c5f7ed8a",
+    "retrieved_utc": "2026-08-11T20:51:58Z"
+  },
+  "DHMVII_DTM_1m_x150000_y208000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(150000,151000)&subset=y(208000,209000)&format=image/tiff",
+    "bounds_l72": [
+      150000,
+      208000,
+      151000,
+      209000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "30502d3f8769a3a2307b2ace7b419337ef82a3fc92ed22284df3e211e1b097f2",
+    "retrieved_utc": "2026-08-11T20:51:59Z"
+  },
+  "DHMVII_DTM_1m_x150000_y209000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(150000,151000)&subset=y(209000,210000)&format=image/tiff",
+    "bounds_l72": [
+      150000,
+      209000,
+      151000,
+      210000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "9fd855fdea77804c58766ea78fa9e3b11545377e647cd72ca8b03652d33ec118",
+    "retrieved_utc": "2026-08-11T20:52:00Z"
+  },
+  "DHMVII_DTM_1m_x151000_y208000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(151000,152000)&subset=y(208000,209000)&format=image/tiff",
+    "bounds_l72": [
+      151000,
+      208000,
+      152000,
+      209000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "6b273b665063d394117b0db89355c38e2818ea53236ca0c2c2c639fcf99cfc2c",
+    "retrieved_utc": "2026-08-11T20:52:01Z"
+  },
+  "DHMVII_DTM_1m_x151000_y209000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(151000,152000)&subset=y(209000,210000)&format=image/tiff",
+    "bounds_l72": [
+      151000,
+      209000,
+      152000,
+      210000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "4dd0a0cf2f59448e8498e170fe3ab1c020f8dd9e8a45b737718a8cbec15bf198",
+    "retrieved_utc": "2026-08-11T20:52:02Z"
+  },
+  "DHMVII_DTM_1m_x152000_y208000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(152000,153000)&subset=y(208000,209000)&format=image/tiff",
+    "bounds_l72": [
+      152000,
+      208000,
+      153000,
+      209000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "e168113ccbb2eebc0509feaf21bc6070053a3c24b796eaf03273b7c9f553dc25",
+    "retrieved_utc": "2026-08-11T20:52:02Z"
+  },
+  "DHMVII_DTM_1m_x152000_y209000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(152000,153000)&subset=y(209000,210000)&format=image/tiff",
+    "bounds_l72": [
+      152000,
+      209000,
+      153000,
+      210000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "32aab508bf3b10eb7460e4dfd561a656cefd985bc1ae0486c69fc3d9efc7e0ad",
+    "retrieved_utc": "2026-08-11T20:52:03Z"
+  },
+  "DHMVII_DTM_1m_x153000_y208000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(153000,154000)&subset=y(208000,209000)&format=image/tiff",
+    "bounds_l72": [
+      153000,
+      208000,
+      154000,
+      209000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "4b7fa3129e032bba81da99c00c448d6991cf9dc71b4a0d12d040dd6a2caeedf9",
+    "retrieved_utc": "2026-08-11T20:52:04Z"
+  },
+  "DHMVII_DTM_1m_x153000_y209000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(153000,154000)&subset=y(209000,210000)&format=image/tiff",
+    "bounds_l72": [
+      153000,
+      209000,
+      154000,
+      210000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "aa5e45d9abe24540003ae1c50dfd7534dfc9e39f964d66c5a69fe3e8ffd9c8ca",
+    "retrieved_utc": "2026-08-11T20:52:05Z"
+  },
+  "DHMVII_DTM_1m_x153000_y215000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(153000,154000)&subset=y(215000,216000)&format=image/tiff",
+    "bounds_l72": [
+      153000,
+      215000,
+      154000,
+      216000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "c2fcae62d24818fc651c93c3d6502466055b0c82854469168c50883c0e6448f9",
+    "retrieved_utc": "2026-08-11T20:52:05Z"
+  },
+  "DHMVII_DTM_1m_x153000_y216000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(153000,154000)&subset=y(216000,217000)&format=image/tiff",
+    "bounds_l72": [
+      153000,
+      216000,
+      154000,
+      217000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "d094d4f438be8047a36e3272566b240d5b818f1d49350e6a90df1f81042c09aa",
+    "retrieved_utc": "2026-08-11T20:52:06Z"
+  },
+  "DHMVII_DTM_1m_x154000_y208000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(154000,155000)&subset=y(208000,209000)&format=image/tiff",
+    "bounds_l72": [
+      154000,
+      208000,
+      155000,
+      209000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "7fde5afc8d2a682c44a00080ab23e6a5748b3d90e2fd313e353f827900f1123b",
+    "retrieved_utc": "2026-08-11T20:52:07Z"
+  },
+  "DHMVII_DTM_1m_x154000_y209000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(154000,155000)&subset=y(209000,210000)&format=image/tiff",
+    "bounds_l72": [
+      154000,
+      209000,
+      155000,
+      210000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "111c7431ebf29e921709a7359a194fbfa856a38d9f1d8471a3fcc4100c916536",
+    "retrieved_utc": "2026-08-11T20:52:08Z"
+  },
+  "DHMVII_DTM_1m_x154000_y210000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(154000,155000)&subset=y(210000,211000)&format=image/tiff",
+    "bounds_l72": [
+      154000,
+      210000,
+      155000,
+      211000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "98aba1c53900c8b8bed9be2771a940ca2412f847efb978942275e740f0b8014d",
+    "retrieved_utc": "2026-08-11T20:52:08Z"
+  },
+  "DHMVII_DTM_1m_x154000_y211000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(154000,155000)&subset=y(211000,212000)&format=image/tiff",
+    "bounds_l72": [
+      154000,
+      211000,
+      155000,
+      212000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "9515c053ccbc7b49d9d6a03e59dabdce79974f4a25ee4fbeaf1cf3d9513b7acd",
+    "retrieved_utc": "2026-08-11T20:52:09Z"
+  },
+  "DHMVII_DTM_1m_x154000_y212000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(154000,155000)&subset=y(212000,213000)&format=image/tiff",
+    "bounds_l72": [
+      154000,
+      212000,
+      155000,
+      213000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "982de8555f69e13b40fe10c177423db60ea204e62538a8f98ddf9d11ce744ef3",
+    "retrieved_utc": "2026-08-11T20:52:10Z"
+  },
+  "DHMVII_DTM_1m_x154000_y213000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(154000,155000)&subset=y(213000,214000)&format=image/tiff",
+    "bounds_l72": [
+      154000,
+      213000,
+      155000,
+      214000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "3bc4117eb3f1c5ca398be50e51a82fe61831c31cfcae94fe5368eb0389669fad",
+    "retrieved_utc": "2026-08-11T20:52:10Z"
+  },
+  "DHMVII_DTM_1m_x154000_y214000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(154000,155000)&subset=y(214000,215000)&format=image/tiff",
+    "bounds_l72": [
+      154000,
+      214000,
+      155000,
+      215000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "0f469b04ba85ed7d17d5ef1844b1e50b4fd5a548bb4a148af6c1fdef4de38502",
+    "retrieved_utc": "2026-08-11T20:52:11Z"
+  },
+  "DHMVII_DTM_1m_x154000_y215000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(154000,155000)&subset=y(215000,216000)&format=image/tiff",
+    "bounds_l72": [
+      154000,
+      215000,
+      155000,
+      216000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "b10f67b0ceb2834fc62e193ca38905680ba21acc60d9debdc5bf265c87f34bfc",
+    "retrieved_utc": "2026-08-11T20:52:12Z"
+  },
+  "DHMVII_DTM_1m_x154000_y216000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(154000,155000)&subset=y(216000,217000)&format=image/tiff",
+    "bounds_l72": [
+      154000,
+      216000,
+      155000,
+      217000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "db78c5da6fc45a547f328762b538ee170edd2f703ece19f822ec109e4ed8d0cc",
+    "retrieved_utc": "2026-08-11T20:52:13Z"
+  },
+  "DHMVII_DTM_1m_x155000_y208000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(155000,156000)&subset=y(208000,209000)&format=image/tiff",
+    "bounds_l72": [
+      155000,
+      208000,
+      156000,
+      209000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "0d3d553eece6f2c29a8e526120aec2dd588b536e73f40a846a776bac504adba9",
+    "retrieved_utc": "2026-08-11T20:52:13Z"
+  },
+  "DHMVII_DTM_1m_x155000_y209000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(155000,156000)&subset=y(209000,210000)&format=image/tiff",
+    "bounds_l72": [
+      155000,
+      209000,
+      156000,
+      210000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "1f3d4ab70a6dab26e327a8df58b5c84a196a5d52af3e563da07d0104a53fec29",
+    "retrieved_utc": "2026-08-11T20:52:14Z"
+  },
+  "DHMVII_DTM_1m_x155000_y210000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(155000,156000)&subset=y(210000,211000)&format=image/tiff",
+    "bounds_l72": [
+      155000,
+      210000,
+      156000,
+      211000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "7b21c511ab954ee9d44a2edfc1d2b1d21971db2f8eb01d89eeed2ea72372a53c",
+    "retrieved_utc": "2026-08-11T20:52:15Z"
+  },
+  "DHMVII_DTM_1m_x155000_y211000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(155000,156000)&subset=y(211000,212000)&format=image/tiff",
+    "bounds_l72": [
+      155000,
+      211000,
+      156000,
+      212000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "bb5b84de0c58ecde391f2d7222d7bc1d12dc8fb1cc7410c44ffceceabce22ea1",
+    "retrieved_utc": "2026-08-11T20:52:16Z"
+  },
+  "DHMVII_DTM_1m_x155000_y212000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(155000,156000)&subset=y(212000,213000)&format=image/tiff",
+    "bounds_l72": [
+      155000,
+      212000,
+      156000,
+      213000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "5668648e20ffd94370d45e6a2ba7d5941ae9337ab4c0a76fddc3d69569193360",
+    "retrieved_utc": "2026-08-11T20:52:17Z"
+  },
+  "DHMVII_DTM_1m_x155000_y213000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(155000,156000)&subset=y(213000,214000)&format=image/tiff",
+    "bounds_l72": [
+      155000,
+      213000,
+      156000,
+      214000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "00a5db614a9ad17eb4f1763b599d2b9a19a910ff55cc39180e8f061ecf29b2e1",
+    "retrieved_utc": "2026-08-11T20:52:17Z"
+  },
+  "DHMVII_DTM_1m_x155000_y214000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(155000,156000)&subset=y(214000,215000)&format=image/tiff",
+    "bounds_l72": [
+      155000,
+      214000,
+      156000,
+      215000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "4d0d9ba06a916e9f46a45f3224373d3021818d95b095be3ecc2139231af479f1",
+    "retrieved_utc": "2026-08-11T20:52:18Z"
+  },
+  "DHMVII_DTM_1m_x155000_y215000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(155000,156000)&subset=y(215000,216000)&format=image/tiff",
+    "bounds_l72": [
+      155000,
+      215000,
+      156000,
+      216000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "3f01a5f82b10b1b9f9a703bbb69944c2f296433f2a01b10e3276f67e099feb70",
+    "retrieved_utc": "2026-08-11T20:52:19Z"
+  },
+  "DHMVII_DTM_1m_x155000_y216000_t1000.tif": {
+    "coverage": "DHMVII_DTM_1m",
+    "url": "https://geo.api.vlaanderen.be/dhmv/wcs?service=WCS&version=2.0.1&request=GetCoverage&coverageId=DHMVII_DTM_1m&subset=x(155000,156000)&subset=y(216000,217000)&format=image/tiff",
+    "bounds_l72": [
+      155000,
+      216000,
+      156000,
+      217000
+    ],
+    "tile_m": 1000,
+    "bytes": 4196076,
+    "sha256": "e4cf626128d8239ea64b951191a594e11a695b1862b22bcd70d20a26dc797892",
+    "retrieved_utc": "2026-08-11T20:52:20Z"
+  }
+}
