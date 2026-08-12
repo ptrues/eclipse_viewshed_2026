@@ -2,6 +2,12 @@
 
 This project uses the following public datasets. Acquisition code and exact spatial requests are recorded in notebooks 02, 03 and 06.
 
+## Solar position validation
+
+The calculated Sun positions are checked against NREL's Solar Position Algorithm in notebook 01.
+
+Mahooti, Meysam (2026). [*NREL's Solar Position Algorithm (SPA)*](https://www.mathworks.com/matlabcentral/fileexchange/59903-nrel-s-solar-position-algorithm-spa), MATLAB Central File Exchange. Retrieved 12 August 2026.
+
 ## DHMV II elevation models
 
 The obstruction surface uses the one-metre DHMV II digital surface model (DSM) and digital terrain model (DTM), acquired through Digitaal Vlaanderen's OGC WCS service:
@@ -46,7 +52,7 @@ Source: <https://commons.wikimedia.org/wiki/File:Lange_Wapper_statue.JPG>
 
 ## Analytical limitations
 
-- The 2013–2015 elevation surface does not include later construction or vegetation growth.
-- Current building footprints may contain structures that postdate the elevation survey; they classify the recorded surface but do not add missing heights.
+- The 2013–2015 elevation surface does not include later vegetation growth.
+- Current building footprints and conservative height estimates supplement newer development in the tested area on Linkeroever.
 - WorldCover's ten-metre cells are used only to identify permanent water.
 - All elevation calculations use TAW heights; ellipsoidal heights are not interchangeable with them.

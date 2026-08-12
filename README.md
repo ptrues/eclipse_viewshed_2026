@@ -37,7 +37,7 @@ The MAS rooftop coordinate was located manually and checked against Google Maps 
 - Water classification from ESA WorldCover
 - Road and water features used for the site map
 
-The elevation surface dates from 2013–2015. Later construction and vegetation changes are not represented. Source details and licences are recorded in `references/data_sources.md`.
+The elevation surface dates from 2013–2015. Current 3D building information supplements newer development in the tested area on Linkeroever; later vegetation changes are not represented. Source details, licences and the Solar Position Algorithm citation are recorded in `references/data_sources.md`.
 
 A complete run downloads about 1.3 GB of source data and creates about 275 MB of intermediate rasters. Internet access is required for notebooks 02, 03 and 06. The downloaded and intermediate files are reproducible and are not stored in Git.
 
