@@ -5,6 +5,8 @@ dependencies:
   - python=3.10
   - gdal
   - rasterio
+  - geopandas
+  - pyogrio
   - pyproj
   - numpy
   - pandas

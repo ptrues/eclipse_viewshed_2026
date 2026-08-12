@@ -1,9 +1,9 @@
-observer,class,bearings,median_deg,max_deg,above 7.83 deg,above 3 deg
+observer,class,bearings,median_deg,max_deg,above maximum,above 3 deg
 Nieuw Zuid,vegetation,191,0.77,1.47,0,0
 Nieuw Zuid,building,39,1.09,1.29,0,0
 Nieuw Zuid,"tall, unattributed",1,0.66,0.66,0,0
-Scheldekaaien Zuid,vegetation,223,0.51,1.82,0,0
-Scheldekaaien Zuid,building,8,0.56,0.62,0,0
+Scheldekaaien Zuid,vegetation,179,0.56,1.82,0,0
+Scheldekaaien Zuid,building,52,0.52,0.81,0,0
 "Wandelterras, Het Steen",vegetation,117,1.56,2.86,0,0
 "Wandelterras, Het Steen",building,114,1.85,2.84,0,0
 Droogdokkenpark,vegetation,128,0.75,1.85,0,0
