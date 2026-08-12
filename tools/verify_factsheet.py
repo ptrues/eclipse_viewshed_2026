@@ -107,13 +107,17 @@ check(
 # Compare the three-column site table with notebook 04 and notebook 05.
 print("\nViewing-location table")
 visibility = pd.read_csv(PROCESSED / "04_visibility.csv").set_index("name")
-figure_table = pd.read_csv(PROCESSED / "05_factsheet_table.csv").set_index("name")
+figure_table_rows = pd.read_csv(PROCESSED / "05_factsheet_table.csv")
+expected_order = figure_table_rows["name"].tolist()
+figure_table = figure_table_rows.set_index("name")
 rows = soup.select("table.sites tbody tr")[1:]
 check(len(rows) == len(visibility), "one table row per viewing location")
+page_order = []
 
 for row in rows:
     cells = row.find_all("td")
     name = cells[0].contents[0].strip()
+    page_order.append(name)
     check(name in visibility.index, f"{name} is a processed viewing location")
     if name not in visibility.index:
         continue
@@ -138,6 +142,8 @@ for row in rows:
             abs(second["eclipse_minutes"] - record["eclipse_minutes"]) <= 0.3,
             f"{name}: notebook 04 and 05 duration agrees",
         )
+
+check(page_order == expected_order, "table follows notebook 05 result order")
 
 
 # Check the factsheet's image links and accessibility text.
