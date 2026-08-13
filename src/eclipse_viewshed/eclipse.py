@@ -15,16 +15,17 @@ shift contact times by seconds, it invalidates them.
 
 Accuracy
 --------
-Position is good to a few arcseconds of the full ELP series; the limit here is
-the truncated tables, not the method. Nutation (~17 arcsec) is neglected. The
-sun-moon separation changes at ~0.5 deg/hour, so an 0.01 deg position error is
-worth about a second of contact time. Cross-checked against published
-predictions in notebook 01.
+The ephemerides use Terrestrial Time while the observer correction uses Earth
+rotation time. Delta T is 69.6 seconds for this event. The truncated lunar
+latitude series and neglected nutation leave contact times within about ten
+seconds of the published circumstances. The sun-moon separation changes at
+~0.5 deg/hour, so a 0.01 deg position error is worth about 72 seconds of
+contact time.
 
 Conventions
 -----------
-Angles in degrees unless a name ends in `_rad`. Times are UTC hours on the
-event date. Distances in km, except the sun's, which is in AU.
+Angles in degrees unless a name ends in `_rad`. Input times are UTC hours on
+the event date. Distances are in km, except the sun's, which is in AU.
 """
 from __future__ import annotations
 
@@ -41,6 +42,8 @@ SUN_RADIUS_ARCSEC = 959.63
 #: Antwerp's observer height for the parallax correction. The correction is
 #: ~0.0001 deg per 100 m, so this only has to be roughly right.
 ANTWERP_HEIGHT_M = 7.0
+#: TT - UT1 used by published circumstances for the 12 August 2026 eclipse.
+DELTA_T_SECONDS = 69.6
 
 # --------------------------------------------------------------------------
 # Meeus ch. 47 periodic terms.  (D, M, M', F, sigma_l [1e-6 deg], sigma_r [1e-3 km])
@@ -111,6 +114,14 @@ def _gmst_deg(jd: float) -> float:
     """Greenwich mean sidereal time in degrees."""
     n = jd - 2451545.0
     return ((18.697374558 + 24.06570982441908 * n) % 24) * 15.0
+
+
+def _julian_dates(year: int, month: int, day: int,
+                  hour_utc: float) -> tuple[float, float]:
+    """Julian dates for Earth rotation (UT) and ephemerides (TT)."""
+    jd_ut = julian_day(year, month, day, hour_utc)
+    jd_tt = jd_ut + DELTA_T_SECONDS / 86400.0
+    return jd_ut, jd_tt
 
 
 def _obliquity_rad(jd: float) -> float:
@@ -287,11 +298,11 @@ def moon_altaz(hour_utc: float,
                month: int = EVENT_MONTH,
                day: int = EVENT_DAY) -> tuple[float, float]:
     """Topocentric altitude and azimuth of the moon, in degrees, unrefracted."""
-    jd = julian_day(year, month, day, hour_utc)
-    lam, beta, dist = moon_ecliptic(jd)
-    ra, dec = _to_equatorial(lam, beta, _obliquity_rad(jd))
-    ra, dec = _topocentric(ra, dec, dist, jd, lat, lon, height_m)
-    return _to_horizontal(ra, dec, jd, lat, lon)
+    jd_ut, jd_tt = _julian_dates(year, month, day, hour_utc)
+    lam, beta, dist = moon_ecliptic(jd_tt)
+    ra, dec = _to_equatorial(lam, beta, _obliquity_rad(jd_tt))
+    ra, dec = _topocentric(ra, dec, dist, jd_ut, lat, lon, height_m)
+    return _to_horizontal(ra, dec, jd_ut, lat, lon)
 
 
 def disc_offset(hour_utc: float, **kwargs) -> tuple[float, float]:
@@ -322,9 +333,9 @@ def _sun_altaz_geometric(hour_utc: float,
                          month: int = EVENT_MONTH,
                          day: int = EVENT_DAY) -> tuple[float, float]:
     """Unrefracted solar alt/az, for differencing against the moon."""
-    jd = julian_day(year, month, day, hour_utc)
-    ra, dec, _ = _sun_equatorial(jd)
-    return _to_horizontal(ra, dec, jd, lat, lon)
+    jd_ut, jd_tt = _julian_dates(year, month, day, hour_utc)
+    ra, dec, _ = _sun_equatorial(jd_tt)
+    return _to_horizontal(ra, dec, jd_ut, lat, lon)
 
 
 def circumstances(hour_utc: float,
@@ -335,13 +346,15 @@ def circumstances(hour_utc: float,
                   month: int = EVENT_MONTH,
                   day: int = EVENT_DAY) -> Circumstances:
     """Separation, apparent radii and obscuration at one instant."""
-    jd = julian_day(year, month, day, hour_utc)
+    jd_ut, jd_tt = _julian_dates(year, month, day, hour_utc)
 
-    lam, beta, dist_km = moon_ecliptic(jd)
-    m_ra, m_dec = _to_equatorial(lam, beta, _obliquity_rad(jd))
-    m_ra, m_dec = _topocentric(m_ra, m_dec, dist_km, jd, lat, lon, height_m)
+    lam, beta, dist_km = moon_ecliptic(jd_tt)
+    m_ra, m_dec = _to_equatorial(lam, beta, _obliquity_rad(jd_tt))
+    m_ra, m_dec = _topocentric(
+        m_ra, m_dec, dist_km, jd_ut, lat, lon, height_m
+    )
 
-    s_ra, s_dec, radius_au = _sun_equatorial(jd)
+    s_ra, s_dec, radius_au = _sun_equatorial(jd_tt)
 
     sep = angular_separation(s_ra, s_dec, m_ra, m_dec)
     r_sun = (SUN_RADIUS_ARCSEC / radius_au) / 3600.0

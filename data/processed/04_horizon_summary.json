@@ -9,9 +9,9 @@
     "water"
   ],
   "max_eclipse": {
-    "cest": "20:14",
-    "altitude_deg": 7.54,
-    "azimuth_deg": 284.42
+    "cest": "20:13",
+    "altitude_deg": 7.7,
+    "azimuth_deg": 284.22
   },
   "observers": 5,
   "best_by_clearance": "MAS panoramic platform"

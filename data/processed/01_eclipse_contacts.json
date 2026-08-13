@@ -1,12 +1,12 @@
 {
-  "first_contact_cest": 19.3224690755207,
-  "maximum_cest": 20.23256353583738,
-  "last_contact_cest": 21.09808756510393,
-  "first_contact_hhmm": "19:19",
-  "maximum_hhmm": "20:14",
-  "last_contact_hhmm": "21:06",
-  "max_obscuration": 0.8863847444566727,
-  "sun_alt_at_max_deg": 7.53,
-  "sun_az_at_max_deg": 284.43,
-  "duration_min": 106.5
+  "first_contact_cest": 19.30305175781237,
+  "maximum_cest": 20.214311326352988,
+  "last_contact_cest": 21.080802408853934,
+  "first_contact_hhmm": "19:18",
+  "maximum_hhmm": "20:13",
+  "last_contact_hhmm": "21:05",
+  "max_obscuration": 0.887724856952552,
+  "sun_alt_at_max_deg": 7.7,
+  "sun_az_at_max_deg": 284.22,
+  "duration_min": 106.7
 }
